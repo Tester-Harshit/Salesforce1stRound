@@ -1,0 +1,72 @@
+package com.salesforce.hooks;
+
+import com.relevantcodes.extentreports.ExtentReports;
+import com.relevantcodes.extentreports.ExtentTest;
+import com.salesforce.utils.ReadConfigFile;
+import io.cucumber.java.After;
+import io.cucumber.java.Before;
+import io.cucumber.java.Scenario;
+import io.github.bonigarcia.wdm.WebDriverManager;
+
+import org.apache.log4j.BasicConfigurator;
+import org.apache.log4j.Logger;
+import org.apache.log4j.PropertyConfigurator;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+
+import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
+
+import java.util.concurrent.TimeUnit;
+
+public class SalesforceHooks {
+	public static WebDriver driver;
+	ReadConfigFile rf = new ReadConfigFile("src/main/resources/Resources/Config/config.properties");
+	ExtentReports report;
+	public static ExtentTest test;
+	public static Logger log;
+
+	
+	@Before()
+	public void setup(Scenario sc) {
+		
+		LocalDateTime currentDateTime = LocalDateTime.now();
+		DateTimeFormatter formatter = DateTimeFormatter.ofPattern("ddMMyyyy HHmmss");
+		String formattedDateTime = currentDateTime.format(formatter);
+		String fileName = "Reports/Report" + formattedDateTime + ".html";
+		report = new ExtentReports(fileName);
+		test = report.startTest(sc.getName());
+		log = Logger.getLogger("Salesfoce User");
+		PropertyConfigurator.configure("src/main/resources/Resources/Config/log4j.properties");
+		
+		
+		String browser = rf.getProperty("Browser");
+		System.out.println(browser);
+
+		switch (browser) {
+		case "chrome":
+			WebDriverManager.chromedriver().setup();
+			driver = new ChromeDriver();
+			driver.manage().window().maximize();
+			driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+			break;
+		case "firefox":
+			WebDriverManager.firefoxdriver().setup();
+			driver = new FirefoxDriver();
+			driver.manage().window().maximize();
+			driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+			break;
+		default:
+			System.out.println("Please provide the correct browser name");
+			break;
+		}
+	}
+
+	@After
+	public void tearDown() {
+		driver.quit();
+		report.endTest(test);
+		report.flush();
+	}
+}

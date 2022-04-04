@@ -1,0 +1,38 @@
+package com.salesforce.pages;
+
+import java.io.IOException;
+
+import org.openqa.selenium.By;
+import com.salesforce.utils.ReadConfigFile;
+import com.salesforce.webcommands.WebActions;
+
+public class LoginPage extends WebActions{
+	
+	ReadConfigFile rf1 = rf;
+	
+
+	By username = By.id("username");
+	By password = By.id("password");
+	By login = By.id("Login");
+
+	
+//	public LoginPage(WebDriver driver) {
+//		this.driver = driver;
+//	}
+//	
+	
+	public void setUserName(String strUserName) throws IOException{
+		type(username,strUserName,"Usename");     
+    }
+	
+	public void setPassword(String strPassword) throws IOException{
+		type(username,strPassword,"Password"); 
+
+	}
+	
+	public void clickLogin() throws IOException{
+        click(login,"Login");
+
+}  
+
+}

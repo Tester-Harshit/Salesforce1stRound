@@ -1,0 +1,94 @@
+package stepDefinitions;
+
+
+import com.salesforce.pages.SalesforceHomePage;
+import com.salesforce.pages.SalesforceLoginPage;
+import io.cucumber.java.en.And;
+import io.cucumber.java.en.Given;
+import io.cucumber.java.en.Then;
+import io.cucumber.java.en.When;
+
+public class Login {
+	SalesforceLoginPage lp = new SalesforceLoginPage();
+	SalesforceHomePage hp = new SalesforceHomePage();
+
+    @Given("user is on login page")
+    public void user_is_on_login_page()   {
+        System.out.println("Check1");
+    }
+
+    @When("user enter the username and password")
+    public void user_enter_the_username_and_password() throws Exception {
+        lp.setUserNamePassword();
+    }
+
+    @And("clicks on the login button")
+    public void clicks_on_the_login_button() throws Exception {
+    	lp.clickLogin();
+    }
+
+    @And("User should be navigated to the Home page")
+    public void user_should_be_navigated_to_the_home_page() throws Exception {
+        lp.verifyLogin();
+    }
+    @When("User clicks on App launcher button")
+    public void user_clicks_on_app_launcher_button() throws Exception {
+    	hp.clickAppLauncher();
+    }
+    
+    @When("User search the {string} application and should be navigated to it")
+    public void user_search_the_application_and_should_be_navigated_to_it(String appName) throws Exception {
+    	hp.navigateToApplication(appName);
+    }
+
+    @When("User search the {string} object and should be navigated to it")
+    public void user_search_the_object_and_should_be_navigated_to_it(String sfdcObjName) throws Exception {
+    	hp.navigateToObject(sfdcObjName);
+    }
+
+    
+    @Given("a new Case with Origin equal to {String}")
+    public void a_new_case_with_origin_equal_to_phone(String caseOrigin) {
+       
+    }
+
+    @And("Subject equal to {String}")
+    public void subject_equal_to_password_request(String caseSubject) {
+        
+    }
+
+    @When("the Service Agent clicks on Save")
+    public void the_service_agent_clicks_on_save() {
+        
+    }
+
+    @Then("the Case Details’ page should be displayed and Origin should be equal to {String}")
+    public void the_case_details_page_should_be_displayed_and_origin_should_be_equal_to_phone(String caseOrigin) {
+        
+    }
+
+    @Given("without Subject;")
+    public void without_subject() {
+        
+    }
+
+    @Then("the Case Details’ page should be displayed and Subject should not be blank")
+    public void the_case_details_page_should_be_displayed_and_subject_should_not_be_blank() {
+        
+    }
+
+    @Given("a Case;")
+    public void a_case() {
+        
+    }
+
+    @When("the Service Agent clicks on Delete;")
+    public void the_service_agent_clicks_on_delete() {
+        
+    }
+
+    @Then("an Error Message saying “Case Cannot Be Deleted!” should be displayed")
+    public void an_error_message_saying_case_cannot_be_deleted_should_be_displayed() {
+        
+    }
+}

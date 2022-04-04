@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestRunner" project="SalesforceProject" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="runner.TestRunner" time="29.951">
+    <testsuite name="Case Management for Service Agents" time="29.951">
+      <testcase name="Service Agent should successfully create a case." classname="Case Management for Service Agents" time="29.951"/>
+    </testsuite>
+  </testsuite>
+</testrun>

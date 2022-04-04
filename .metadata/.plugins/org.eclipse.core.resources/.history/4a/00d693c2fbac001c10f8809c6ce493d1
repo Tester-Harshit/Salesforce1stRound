@@ -1,0 +1,4 @@
+#for example chrome, firefox
+browser=chrome
+URL=https://test.salesforce.com
+WaiTime= 10

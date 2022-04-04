@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestRunner" project="SalesforceProject" tests="1" started="1" failures="0" errors="1" ignored="0">
+  <testsuite name="runner.TestRunner" time="23.504">
+    <testsuite name="Case Management for Service Agents" time="23.504">
+      <testcase name="Service Agent should successfully create a case." classname="Case Management for Service Agents" time="23.504">
+        <error>java.lang.NullPointerException: Cannot invoke "org.apache.log4j.Logger.debug(Object)" because "com.salesforce.webcommands.WebActions.log" is null&#13;
+	at com.salesforce.webcommands.WebActions.verifyElementIsPresent(WebActions.java:132)&#13;
+	at com.salesforce.pages.SalesforceLoginPage.verifyLogin(SalesforceLoginPage.java:35)&#13;
+	at stepDefinitions.Login.user_should_be_navigated_to_the_home_page(Login.java:34)&#13;
+	at ✽.User should be navigated to the Home page(file:///C:/Users/simpl/OneDrive/Desktop/Salesforce1stRound/SalesforceProject/src/test/java/Features/CaseManagement.feature:8)&#13;
+&#13;
+</error>
+      </testcase>
+    </testsuite>
+  </testsuite>
+</testrun>

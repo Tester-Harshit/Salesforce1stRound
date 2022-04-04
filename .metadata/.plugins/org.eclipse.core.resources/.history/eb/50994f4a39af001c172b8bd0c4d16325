@@ -1,0 +1,19 @@
+Feature: Case Management for Service Agents
+Description: The purpose of this feature is to test the case creation.
+Background: User is Logged In
+		Given user is on login page
+    When user enter the username and password
+    And clicks on the login button
+    And User is navigated to the Home page
+    And User clicks on App launcher button and search "Service Cloud" application
+    And User is navigated to the "Service Cloud" application
+    And User clicks on App launcher button and search "Cases" application
+    And User is navigated to the "Cases" object
+    
+@SmokeTest
+  Scenario: Service Agent should successfully create a case.
+  	 Given a new Case with Origin equal to “Phone”
+	   And Subject equal to “Password Request”;
+		 When the Service Agent clicks on Save;
+		 Then the Case Details’ page should be displayed and Origin should be equal to “Phone”
+ 

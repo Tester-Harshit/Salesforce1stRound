@@ -1,0 +1,95 @@
+package com.salesforce.webcommands;
+import com.relevantcodes.extentreports.ExtentTest;
+import com.relevantcodes.extentreports.LogStatus;
+import com.salesforce.hooks.SalesforceHooks;
+import com.salesforce.utils.ReadConfigFile;
+import java.io.File;
+import java.io.IOException;
+import org.apache.commons.io.FileUtils;
+import org.apache.log4j.Logger;
+import org.openqa.selenium.By;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
+import org.openqa.selenium.WebDriver;
+
+public class WebActions  {
+
+	WebDriver driver;
+	ReadConfigFile rf = new ReadConfigFile("src/main/resources/Resources/Config/config.properties");
+	ExtentTest test;
+	Logger log;
+
+	public WebActions() {
+		driver = SalesforceHooks.driver;
+		test = SalesforceHooks.test;
+		log = SalesforceHooks.log;
+	}
+
+	/**
+	 * 
+	 *
+	 */
+
+	public void navigateToUrl() {
+		String url = rf.getProperty("URL");
+		try {
+			driver.get(url);
+			log.debug("Opening Salesforce Sandbox");
+			SalesforceHooks.test.log(LogStatus.PASS,
+					test.addScreenCapture(screenshot()) + "Navigated to the specified URL");
+		} catch (Exception e) {
+
+		}
+	}
+
+	/**
+	 * Function is used to perform type action on element
+	 *
+	 * @param locator  -- Get it from the object repository
+	 * @param eleName  -- Name of the element which will be clicked
+	 * @param testData -- Test Data to be filled
+	 */
+	public void type(By locator, String testData, String eleName) {
+		try {
+			driver.findElement(locator).sendKeys(testData);
+		} catch (Exception e) {
+
+			throw e;
+		}
+
+	}
+
+	/**
+	 * Function is used to perform click action on element
+	 *
+	 * @param locator-- Get it from the object repository
+	 * @param eleName-- name of the element which will be clicked
+	 */
+
+	public void click(By locator, String eleName) throws Exception {
+		try {
+			driver.findElement(locator).click();
+
+		} catch (Exception e) {
+
+			throw e;
+		}
+	}
+
+	/**
+	 * Function is used to take Screenshot
+	 *
+	 * @return -- the taken screenshot
+	 * @throws IOException
+	 */
+
+	public String screenshot() throws IOException {
+		File scrFile = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
+		File Dest = new File("src/../ErrImages/" // + System.currentTimeMillis()
+				+ ".png");
+		String errflpath = Dest.getAbsolutePath();
+		FileUtils.copyFile(scrFile, Dest);
+		return errflpath;
+	}
+
+}

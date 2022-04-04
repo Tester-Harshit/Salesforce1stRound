@@ -1,0 +1,5 @@
+#for example chrome, firefox
+Browser=chrome
+URL=https://test.salesforce.com
+WaiTime= 10
+ReportFolder=C:\\User\\simpl\\OneDrive\\Desktop\\Salesforce1stRound\\SalesforceProject\\Reports

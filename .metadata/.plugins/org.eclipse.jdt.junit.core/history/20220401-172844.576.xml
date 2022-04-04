@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestRunner" project="SalesforceProject" tests="3" started="3" failures="0" errors="0" ignored="0">
+  <testsuite name="runner.TestRunner" time="262.554">
+    <testsuite name="Case Management for Service Agents" time="262.554">
+      <testcase name="Service Agent should successfully create a case." classname="Case Management for Service Agents" time="26.775"/>
+      <testcase name="A default Subject should always be assigned to the Case." classname="Case Management for Service Agents" time="149.388"/>
+      <testcase name="Service Agent Should not Delete Cases." classname="Case Management for Service Agents" time="86.391"/>
+    </testsuite>
+  </testsuite>
+</testrun>

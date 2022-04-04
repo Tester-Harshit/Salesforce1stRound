@@ -1,0 +1,29 @@
+package com.salesforce.pages;
+import java.io.IOException;
+import org.openqa.selenium.By;
+import com.salesforce.utils.DecodingStrings;
+import com.salesforce.webcommands.WebActions;
+
+public class LoginPage extends WebActions {
+
+	DecodingStrings ds = new DecodingStrings();
+
+	By username = By.id("username");
+	By password = By.id("password");
+	By login = By.id("Login");
+
+	public void setUserName() {
+		type(username, rf.getProperty("Username"), "Usename");
+	}
+
+	public void setPassword()  {
+		type(username, ds.decoder(rf.getProperty("Password")), "Password");
+
+	}
+
+	public void clickLogin() {
+		click(login, "Login");
+
+	}
+
+}

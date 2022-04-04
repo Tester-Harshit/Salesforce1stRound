@@ -1,0 +1,45 @@
+package com.salesforce.pages;
+
+import org.apache.commons.lang3.exception.ExceptionUtils;
+import org.junit.Assert;
+import org.openqa.selenium.By;
+import com.relevantcodes.extentreports.LogStatus;
+import com.salesforce.utils.DecodingStrings;
+import com.salesforce.webcommands.WebActions;
+
+public class SalesforceLoginPage extends WebActions {
+
+	DecodingStrings ds = new DecodingStrings();
+
+	By username = By.id("username");
+
+	By password = By.id("password");
+
+	By login = By.id("Login");
+
+	By error = By.id("error");
+
+	public SalesforceLoginPage() {
+		String url = rf.getProperty("URL");
+		navigateToUrl(url);
+	}
+
+	public void setUserNamePassword() throws Exception {
+		type(username, rf.getProperty("Username"), "Username");
+		typePassword(password, ds.decoder(rf.getProperty("Password")), "Password");
+	}
+
+	public void clickLogin() throws Exception {
+		click(login, "Login");
+
+	}
+
+	public void verifyLogin() throws Exception {
+		String s = verifyElementIsPresent(error, "Login Error message");
+		if (s.equalsIgnoreCase("Yes")) {
+			report.log(LogStatus.FAIL,
+					report.addScreenCapture(screenshot()) + "Unable to Login Please verify the error message");
+		} else
+			report.log(LogStatus.PASS, "Login Successfull");
+	}
+}

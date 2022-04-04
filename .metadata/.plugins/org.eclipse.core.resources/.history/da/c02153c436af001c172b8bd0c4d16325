@@ -1,0 +1,16 @@
+Feature: Case Management for Service Agents
+Description: The purpose of this feature is to test the case creation.
+Background: User is Logged In
+		Given user is on login page
+    When user enter the username and password
+    And clicks on the login button
+    Then User is navigated to the Home page
+    
+@SmokeTest
+  Scenario: Login
+    Given user is on login page
+    When user enter the username and password
+    And clicks on the login button
+    Then User is navigated to the Home page
+    
+ 

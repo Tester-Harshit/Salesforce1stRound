@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestRunner" project="SalesforceProject" tests="1" started="1" failures="0" errors="1" ignored="0">
+  <testsuite name="runner.TestRunner" time="0.158">
+    <testsuite name="Case Management for Service Agents" time="0.158">
+      <testcase name="Service Agent should successfully create a case." classname="Case Management for Service Agents" time="0.158">
+        <error>io.cucumber.junit.UndefinedStepException: The step 'user is on login page' and 7 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("user is on login page")
+public void user_is_on_login_page() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("user enter the username and password")
+public void user_enter_the_username_and_password() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("clicks on the login button")
+public void clicks_on_the_login_button() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User should be navigated to the Home page")
+public void user_should_be_navigated_to_the_home_page() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Given("a new Case with Origin equal to {string}")
+public void a_new_case_with_origin_equal_to(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Given("Subject equal to {string}")
+public void subject_equal_to(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("the Service Agent clicks on Save")
+public void the_service_agent_clicks_on_save() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("the Case Details page should be displayed and Origin should be equal to {string}")
+public void the_case_details_page_should_be_displayed_and_origin_should_be_equal_to(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+&#13;
+&#13;
+</error>
+      </testcase>
+    </testsuite>
+  </testsuite>
+</testrun>

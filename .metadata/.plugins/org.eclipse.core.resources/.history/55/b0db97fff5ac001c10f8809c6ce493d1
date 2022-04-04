@@ -1,0 +1,57 @@
+package com.salesforce.hooks;
+
+import com.relevantcodes.extentreports.ExtentReports;
+import com.relevantcodes.extentreports.ExtentTest;
+import com.salesforce.utils.ReadConfigFile;
+import io.cucumber.java.After;
+import io.cucumber.java.Before;
+import io.github.bonigarcia.wdm.WebDriverManager;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import java.util.concurrent.TimeUnit;
+
+public class SalesforceHooks {
+	public static WebDriver driver;
+	ReadConfigFile rf = new ReadConfigFile("src/main/resources/Resources/Config/config.properties");
+	ExtentReports report;
+	ExtentTest test;
+
+//	@Before(order = 1)
+//	public void report() {
+////		report = new ExtentReports(System.getProperty("user.dir") + "\\ExtentReportResults.html");
+////		test = report.startTest("SalesforceTest");
+//	}
+
+	@Before()
+	public void setup() {
+		String browser = rf.getProperty("browser");
+		System.out.println(browser);
+		report = new ExtentReports(System.getProperty("user.dir") + "\\ExtentReportResults.html");
+		test = report.startTest("SalesforceTest");
+		switch (browser) {
+		case "chrome":
+			WebDriverManager.chromedriver().setup();
+			driver = new ChromeDriver();
+			driver.manage().window().maximize();
+			driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+			break;
+		case "firefox":
+			WebDriverManager.firefoxdriver().setup();
+			driver = new FirefoxDriver();
+			driver.manage().window().maximize();
+			driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+			break;
+		default:
+			System.out.println("Please provide the correct browser name");
+			break;
+		}
+	}
+
+	@After
+	public void tearDown() {
+		driver.quit();
+		report.endTest(test);
+		report.flush();
+	}
+}

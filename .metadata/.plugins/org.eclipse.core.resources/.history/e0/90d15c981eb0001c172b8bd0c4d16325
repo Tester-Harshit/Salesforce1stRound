@@ -1,0 +1,88 @@
+package com.salesforce.pages;
+
+import org.openqa.selenium.By;
+
+import com.relevantcodes.extentreports.LogStatus;
+import com.salesforce.webcommands.WebActions;
+
+public class CasesPage extends WebActions {
+
+	By casesTab = By.xpath("//div[starts-with(@class, 'oneConsoleNav')]/descendant::span[text() = 'Cases']");
+
+	By newCaseBtn = By.xpath("//*[@title = 'New']");
+
+	By caseOriginDropDwon = By.xpath(
+			"//*[text() = 'New Case']/ancestor::div[@class='actionBody']//span[text() = 'Case Origin']/../following-sibling::div//a");
+
+	String caseOriginDropDownValueXpath = "//a[text() = '";
+
+	By subjectTxtBox = By.xpath(
+			"//*[text() = 'New Case']/ancestor::div[@class='actionBody']//span[text() = 'Subject']/../following-sibling::input");
+
+	By caseSaveBtn = By.xpath("//div[@class='actionsContainer']//span[text() = 'Save']");
+
+	By selectedCase = By.xpath("(//a[starts-with(@class,'tabHeader ') and @tabindex=0 and @role = 'tab'])[1]");
+
+	String caseWithOrigin1 = "(//*[text() = '";
+
+	String caseWithOrigin2 = "']/../../preceding-sibling::th)[1]/descendant::a";
+
+	By caseCreatedSuccessMessage = By.xpath("//div[@role='alert' and @data-key='success']");
+
+//	String caseEditButton = "//*[text() = '00001026']/ancestor::div[starts-with(@class,'highlights')]/descendant::button[@name='Edit']";
+
+	By caseSubjectEditTxtBox = By
+			.xpath("//div[@class='actionBody']//span[text() = 'Subject']/../following-sibling::input");
+
+	public void newCaseWithOrigin(String caseOrigin) throws Exception {
+		click(casesTab, "Cases Tab");
+		click(newCaseBtn, "New Case");
+		click(caseOriginDropDwon, "Case Origin");
+		By caseOriginDropDownValue = By.xpath(caseOriginDropDownValueXpath + caseOrigin + "']");
+		click(caseOriginDropDownValue, caseOrigin);
+	}
+
+	public void setCaseSubject(String caseSubject) throws Exception {
+		type(subjectTxtBox, caseSubject, "Subject");
+	}
+
+	public void saveCase() throws Exception {
+		click(caseSaveBtn, "Save Button");
+		Thread.sleep(20000);
+	}
+
+	public void verifyCaseCreated(String caseOriginExpected) throws Exception {
+		verifyMessage(caseCreatedSuccessMessage, "Success Message");
+		String caseNumber = getAttributeValue(selectedCase, "title");
+		By createdCaseOrigin = By.xpath("//*[text() = '" + caseNumber
+				+ "' and @slot='outputField']/ancestor::div[starts-with(@class,'record-body')]//span[text() = 'Case Origin'] /../../descendant::lightning-formatted-text");
+		String caseOriginActual = getTextValue(createdCaseOrigin, "Case Origin");
+		compareStrings(caseOriginExpected, caseOriginActual, "Case Origin");
+	}
+
+	public void openCaseWithOrigin(String caseOrigin) throws Exception {
+		click(casesTab, "Cases Tab");
+		By caseWithOrigin = By.xpath(caseWithOrigin1 + caseOrigin + caseWithOrigin2);
+		click(caseWithOrigin, "Case with Origin as Phone");
+	}
+
+	public void editSubject() throws Exception {
+		String caseNumber = getAttributeValue(selectedCase, "title");
+		By caseEdit = By.xpath("//*[text() = '" + caseNumber
+				+ "']/ancestor::div[starts-with(@class,'highlights')]/descendant::button[@name='Edit']");
+		click(caseEdit, "Edit Button");
+		clearTxtBox(caseSubjectEditTxtBox, "Case Subject");
+	}
+
+	public void verifyCaseCreratedWithoutSubject() throws Exception {
+		verifyMessage(caseCreatedSuccessMessage, "Success Message");
+		String caseNumber = getAttributeValue(selectedCase, "title");
+		By createdCaseSubject = By.xpath("//*[text() = '" + caseNumber
+				+ "' and @slot='outputField']/ancestor::div[starts-with(@class,'record-body')]//span[text() = 'Subject'] /../../descendant::lightning-formatted-text");
+		String subjectActual = getTextValue(createdCaseSubject, "Subject");
+		if (subjectActual != "")
+			report.log(LogStatus.PASS, " Subject is not blank");
+		else
+			report.log(LogStatus.FAIL, " Subject is blank");
+	}
+}

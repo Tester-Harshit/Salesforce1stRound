@@ -1,0 +1,13 @@
+Background: Given user is on login page
+    When user enter the username and password
+    And clicks on the login button
+    Then User is navigated to the Home page
+@SmokeTest
+Feature: Case Management for Service Agents
+  Scenario: Login
+    Given user is on login page
+    When user enter the username and password
+    And clicks on the login button
+    Then User is navigated to the Home page
+    
+ 

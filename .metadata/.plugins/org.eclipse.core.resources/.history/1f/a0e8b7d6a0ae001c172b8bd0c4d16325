@@ -1,0 +1,88 @@
+package stepDefinitions;
+
+
+import java.io.IOException;
+
+import com.salesforce.pages.SalesforceLoginPage;
+import com.salesforce.webcommands.WebActions;
+import io.cucumber.java.en.And;
+import io.cucumber.java.en.Given;
+import io.cucumber.java.en.Then;
+import io.cucumber.java.en.When;
+
+public class Login {
+	SalesforceLoginPage lp = new SalesforceLoginPage();
+
+    @Given("user is on login page")
+    public void user_is_on_login_page()   {
+        System.out.println("Check1");
+    }
+
+    @When("user enter the username and password")
+    public void user_enter_the_username_and_password() throws Exception {
+        lp.setUserName();
+        lp.setPassword();
+    	System.out.println("Check2");
+    }
+
+    @And("clicks on the login button")
+    public void clicks_on_the_login_button() throws Exception {
+    	lp.clickLogin();
+        System.out.println("Check3");;
+    }
+
+    @Then("User is navigated to the Home page")
+    public void user_is_navigated_to_the_home_page() {
+        System.out.println("Check4");
+    }
+    
+    @Given("a new Case with Origin equal to “Phone”")
+    public void a_new_case_with_origin_equal_to_phone() {
+       
+    }
+
+    @Given("Subject equal to “Password Request”;")
+    public void subject_equal_to_password_request() {
+        
+    }
+
+    @When("the Service Agent clicks on Save;")
+    public void the_service_agent_clicks_on_save() {
+        
+    }
+
+    @Then("the Case Details’ page should be displayed and Origin should be equal to “Phone”")
+    public void the_case_details_page_should_be_displayed_and_origin_should_be_equal_to_phone() {
+        
+    }
+
+    @Given("a Case with Origin equal to “Phone”")
+    public void a_case_with_origin_equal_to_phone() {
+      
+    }
+
+    @Given("without Subject;")
+    public void without_subject() {
+        
+    }
+
+    @Then("the Case Details’ page should be displayed and Subject should not be blank")
+    public void the_case_details_page_should_be_displayed_and_subject_should_not_be_blank() {
+        
+    }
+
+    @Given("a Case;")
+    public void a_case() {
+        
+    }
+
+    @When("the Service Agent clicks on Delete;")
+    public void the_service_agent_clicks_on_delete() {
+        
+    }
+
+    @Then("an Error Message saying “Case Cannot Be Deleted!” should be displayed")
+    public void an_error_message_saying_case_cannot_be_deleted_should_be_displayed() {
+        
+    }
+}

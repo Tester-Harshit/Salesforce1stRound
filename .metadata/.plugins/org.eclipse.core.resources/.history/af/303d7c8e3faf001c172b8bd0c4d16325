@@ -1,0 +1,9 @@
+package com.salesforce.pages;
+
+import org.openqa.selenium.By;
+
+public class CasesPage {
+	
+	By newCase = By.xpath("//*[@title = 'New']");
+
+}

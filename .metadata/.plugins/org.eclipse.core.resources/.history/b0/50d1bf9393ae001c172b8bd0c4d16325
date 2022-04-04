@@ -1,0 +1,40 @@
+package com.salesforce.pages;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+
+import com.salesforce.utils.ReadConfigFile;
+import com.salesforce.webcommands.WebActions;
+
+public class LoginPage extends WebActions{
+	
+//	ReadConfigFile rf = new ReadConfigFile("src/main/resources/Resources/Config/config.properties");
+	
+
+	By username = By.id("username");
+	By password = By.id("password");
+	By login = By.id("Login");
+
+	
+//	public LoginPage(WebDriver driver) {
+//		this.driver = driver;
+//	}
+//	
+	
+	public void setUserName(String strUserName){
+		type(username,strUserName,"Usename");     
+    }
+	
+	public void setPassword(String strPassword){
+		type(username,strPassword,"Password"); 
+
+	}
+	
+	public void clickLogin(){
+        click(login,"Login");
+
+}  
+
+}

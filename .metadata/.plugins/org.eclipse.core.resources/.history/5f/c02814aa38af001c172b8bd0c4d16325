@@ -1,0 +1,27 @@
+package com.salesforce.pages;
+
+import org.openqa.selenium.By;
+
+import com.salesforce.webcommands.WebActions;
+
+public class HomePage extends WebActions{
+
+	By applicationName = By.xpath("//*[@title = 'Service Cloud']");
+	
+	By appLauncher = By.xpath("//div[starts-with(@class,'appLauncher')]/button/div");
+	
+	By searchObject = By.xpath("//*[@role='combobox']/descendant::input[@type='search']");
+	
+	By toSearch = By.xpath("//*[@role='combobox']/descendant::b[contains(text(),'Cases')]");
+	
+	
+	public void navigateToApplication(String appName) throws Exception {
+		click(appLauncher, "App Launcher");
+		type(searchObject, appName, "Search");
+	}
+	
+	public void navigateToObject(String objName) throws Exception {
+		click(appLauncher, "App Launcher");
+		type(searchObject, objName, "Search");
+	}
+}

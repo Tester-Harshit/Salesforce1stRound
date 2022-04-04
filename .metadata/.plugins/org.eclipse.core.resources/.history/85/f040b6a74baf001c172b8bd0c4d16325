@@ -1,0 +1,149 @@
+package com.salesforce.webcommands;
+
+import com.relevantcodes.extentreports.ExtentTest;
+import com.relevantcodes.extentreports.LogStatus;
+import com.salesforce.hooks.SalesforceHooks;
+import com.salesforce.utils.ReadConfigFile;
+import java.io.File;
+import java.io.IOException;
+import java.util.List;
+
+import org.apache.commons.io.FileUtils;
+import org.apache.commons.lang3.exception.ExceptionUtils;
+import org.apache.log4j.Logger;
+import org.openqa.selenium.By;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
+
+public class WebActions {
+
+	public static WebDriver driver;
+	public static ReadConfigFile rf = new ReadConfigFile("src/main/resources/Resources/Config/config.properties");
+	public static ExtentTest report;
+	public static Logger log;
+	WebDriverWait wait = new WebDriverWait(driver,30);
+
+	public WebActions() {
+		driver = SalesforceHooks.driver;
+		report = SalesforceHooks.report;
+		log = SalesforceHooks.log;
+	}
+
+//	/**
+//	 *
+//	 * 
+//	 *
+//	 */
+//
+//	public void navigateToUrl()  {
+//		String url = rf.getProperty("URL");
+//		try {
+//			driver.get(url);
+//			log.debug("Opening Salesforce Sandbox");			
+//		} catch (Exception e) {
+//			report.log(LogStatus.FAIL,
+//					report.addScreenCapture(screenshot()) + "Unable to navigate to the specified URL\n"+ExceptionUtils.getStackTrace(e));		
+//		}
+//	}
+
+	/**
+	 * Function is used to perform type action on element
+	 *
+	 * @param locator  -- Get it from the object repository
+	 * @param eleName  -- Name of the element which will be clicked
+	 * @param testData -- Test Data to be filled
+	 * @throws IOException 
+	 * 
+	 */
+	public void type(By locator, String testData, String eleName) throws IOException {
+//		wait.until(ExpectedConditions.visibilityOfElementLocated(locator));
+		try {
+			driver.findElement(locator).sendKeys(testData);
+			log.debug("User is able to enter " + testData + " in " + eleName + " field");
+			report.log(LogStatus.PASS, "User is able to enter " + testData + " in " + eleName + " field");
+		} catch (Exception e) {
+			report.log(LogStatus.FAIL, report.addScreenCapture(screenshot()) + "Unable to enter " + testData + " in "
+					+ eleName + " field\n" + ExceptionUtils.getStackTrace(e));
+		}
+
+	}
+
+	/**
+	 * 
+	 * @param locator
+	 * @param testData
+	 * @param eleName
+	 */
+
+	public void typePassword(By locator, String testData, String eleName) throws Exception{
+//		wait.until(ExpectedConditions.visibilityOfElementLocated(locator));
+		try {
+			driver.findElement(locator).sendKeys(testData);
+			log.debug("User is able to enter password in " + eleName + " field");
+			report.log(LogStatus.PASS, "User is able to enter password in " + eleName + " field");
+		} catch (Exception e) {
+			report.log(LogStatus.FAIL, report.addScreenCapture(screenshot()) + "Unable to enter password in " + eleName
+					+ " field\n" + ExceptionUtils.getStackTrace(e));
+		}
+
+	}
+
+	/**
+	 * Function is used to perform click action on element
+	 *
+	 * @param locator-- Get it from the object repository
+	 * @param eleName-- name of the element which will be clicked
+	 * 
+	 */
+
+	public void click(By locator, String eleName) throws Exception{
+//		wait.until(ExpectedConditions.elementToBeClickable(locator));
+		try {
+			driver.findElement(locator).click();
+			log.debug("User is able to click " + eleName);
+			report.log(LogStatus.PASS, "User is able to click " + eleName);
+		} catch (Exception e) {
+			report.log(LogStatus.FAIL, report.addScreenCapture(screenshot()) + "User is unable to click " + eleName
+					+ "\n" + ExceptionUtils.getStackTrace(e));
+		}
+	}
+
+	/**
+	 * 
+	 * @param locator
+	 * @param eleName
+	 * @return
+	 */
+
+	public String verifyElementIsPresent(By locator, String eleName) {
+//		wait.until(ExpectedConditions.visibilityOfElementLocated(locator));
+		List<WebElement> l = driver.findElements(locator);
+		if (l.size() == 0) {
+			log.debug(eleName + " is not present");
+			return "No";
+		} else {
+			log.debug(eleName + " is present");
+			return "Yes";
+		}
+	}
+
+	/**
+	 * Function is used to take Screenshot
+	 *
+	 * @return -- the taken screenshot
+	 * @throws IOException
+	 */
+
+	public String screenshot() throws IOException {
+		File scrFile = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
+		File Dest = new File("src/../ErrImages/" + ".png");
+		FileUtils.copyFile(scrFile, Dest);
+		String errflpath = Dest.getAbsolutePath();
+		return errflpath;
+	}
+
+}

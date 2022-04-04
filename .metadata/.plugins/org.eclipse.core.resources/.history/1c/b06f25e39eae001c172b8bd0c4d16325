@@ -1,0 +1,24 @@
+package com.salesforce.utils;
+
+import org.apache.commons.codec.binary.Base64;
+import org.apache.commons.lang3.exception.ExceptionUtils;
+
+import com.relevantcodes.extentreports.LogStatus;
+import com.salesforce.webcommands.WebActions;
+
+public class DecodingStrings extends WebActions{
+
+	public String decoder(String password) {
+try {
+	byte[] decoderString = Base64.decodeBase64(password);
+	return (new String(decoderString));
+}
+catch(Exception e) {
+	report.log(LogStatus.FAIL, report.addScreenCapture(screenshot()) + "Unable to Decode\n"+ExceptionUtils.getStackTrace(e));
+	System.exit(0);
+	return null;
+}
+		
+	}
+
+}

@@ -1,0 +1,49 @@
+package com.salesforce.pages;
+import java.io.IOException;
+
+import org.apache.commons.lang3.exception.ExceptionUtils;
+import org.openqa.selenium.By;
+
+import com.relevantcodes.extentreports.LogStatus;
+import com.salesforce.utils.DecodingStrings;
+import com.salesforce.webcommands.WebActions;
+
+public class SalesforceLoginPage extends WebActions {
+
+	DecodingStrings ds = new DecodingStrings();
+	By username = By.id("username");
+	By password = By.id("password");
+	By login = By.id("Login");
+	
+	public SalesforceLoginPage(){
+		String url = rf.getProperty("URL");
+		try {
+			driver.get(url);
+			System.out.println(driver.getTitle());
+			log.debug("Opening Salesforce Sandbox");			
+		} catch (Exception e) {
+			report.log(LogStatus.FAIL,
+					report.addScreenCapture(screenshot()) + "Unable to navigate to the specified URL\n"+ExceptionUtils.getStackTrace(e));		
+		}
+	}
+
+	public void setUserName() {
+		type(username, rf.getProperty("Username"), "Usename");
+	}
+
+	public void setPassword()  {
+		type(password, ds.decoder(rf.getProperty("Password")), "Password");
+
+	}
+
+	public void clickLogin() throws InterruptedException {
+		click(login, "Login");
+		Thread.sleep(10000);
+		System.out.println(driver.getTitle());
+
+	}
+
+	public void verifyLogin() {
+		
+	}
+}

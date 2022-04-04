@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestRunner" project="SalesforceProject" tests="2" started="2" failures="0" errors="2" ignored="0">
+  <testsuite name="runner.TestRunner" time="9.132">
+    <testsuite name="Case Management for Service Agents" time="9.132">
+      <testcase name="Service Agent should successfully create a case." classname="Case Management for Service Agents" time="5.869">
+        <error>java.lang.NullPointerException: Cannot invoke "com.relevantcodes.extentreports.ExtentTest.addScreenCapture(String)" because "com.salesforce.webcommands.WebActions.report" is null&#13;
+	at com.salesforce.webcommands.WebActions.type(WebActions.java:75)&#13;
+	at com.salesforce.pages.SalesforceLoginPage.setUserNamePassword(SalesforceLoginPage.java:37)&#13;
+	at stepDefinitions.Login.user_enter_the_username_and_password(Login.java:24)&#13;
+	at ✽.user enter the username and password(file:///C:/Users/simpl/OneDrive/Desktop/Salesforce1stRound/SalesforceProject/src/test/java/Features/CaseManagement.feature:6)&#13;
+&#13;
+</error>
+      </testcase>
+      <testcase name="A default Subject should always be assigned to the Case." classname="Case Management for Service Agents" time="3.262">
+        <error>java.lang.NullPointerException: Cannot invoke "com.relevantcodes.extentreports.ExtentTest.addScreenCapture(String)" because "com.salesforce.webcommands.WebActions.report" is null&#13;
+	at com.salesforce.webcommands.WebActions.type(WebActions.java:75)&#13;
+	at com.salesforce.pages.SalesforceLoginPage.setUserNamePassword(SalesforceLoginPage.java:37)&#13;
+	at stepDefinitions.Login.user_enter_the_username_and_password(Login.java:24)&#13;
+	at ✽.user enter the username and password(file:///C:/Users/simpl/OneDrive/Desktop/Salesforce1stRound/SalesforceProject/src/test/java/Features/CaseManagement.feature:6)&#13;
+&#13;
+</error>
+      </testcase>
+    </testsuite>
+  </testsuite>
+</testrun>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestRunner" project="SalesforceProject" tests="1" started="1" failures="0" errors="1" ignored="0">
+  <testsuite name="runner.TestRunner" time="4.259">
+    <testsuite name="Case Management for Service Agents" time="4.259">
+      <testcase name="Service Agent should successfully create a case." classname="Case Management for Service Agents" time="4.259">
+        <error>java.lang.NullPointerException: Cannot invoke "com.relevantcodes.extentreports.ExtentTest.log(com.relevantcodes.extentreports.LogStatus, String)" because "com.salesforce.webcommands.WebActions.report" is null&#13;
+	at com.salesforce.webcommands.WebActions.navigateToUrl(WebActions.java:55)&#13;
+	at com.salesforce.pages.SalesforceLoginPage.urlNavigation(SalesforceLoginPage.java:22)&#13;
+	at stepDefinitions.Login.user_is_on_login_page(Login.java:19)&#13;
+	at ✽.user is on login page(file:///C:/Users/simpl/OneDrive/Desktop/Salesforce1stRound/SalesforceProject/src/test/java/Features/CaseManagement.feature:5)&#13;
+&#13;
+</error>
+      </testcase>
+    </testsuite>
+  </testsuite>
+</testrun>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestRunner" project="SalesforceProject" tests="1" started="1" failures="0" errors="2" ignored="0">
+  <testsuite name="runner.TestRunner" time="0.115">
+    <testsuite name="Case Management for Service Agents" time="0.115">
+      <testcase name="Service Agent should successfully create a case." classname="Case Management for Service Agents" time="0.115">
+        <error>java.lang.NullPointerException: Cannot invoke "com.relevantcodes.extentreports.ExtentReports.startTest(String)" because "com.salesforce.hooks.SalesforceHooks.repo" is null&#13;
+	at com.salesforce.hooks.SalesforceHooks.setup(SalesforceHooks.java:54)&#13;
+&#13;
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.quit()" because "com.salesforce.hooks.SalesforceHooks.driver" is null&#13;
+	at com.salesforce.hooks.SalesforceHooks.tearDown(SalesforceHooks.java:84)&#13;
+&#13;
+</error>
+      </testcase>
+    </testsuite>
+  </testsuite>
+</testrun>

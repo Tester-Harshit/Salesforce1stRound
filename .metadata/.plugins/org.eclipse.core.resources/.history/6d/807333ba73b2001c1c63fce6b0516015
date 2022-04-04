@@ -1,0 +1,20 @@
+package runner;
+
+import io.cucumber.junit.Cucumber;
+import io.cucumber.junit.CucumberOptions;
+import io.cucumber.testng.AbstractTestNGCucumberTests;
+
+import org.junit.runner.RunWith;
+
+//@RunWith(Cucumber.class)
+@CucumberOptions(
+        features = {"src/test/java/Features"}
+        ,glue={"stepDefinitions", "com.salesforce.hooks"}
+        ,tags = "@Salesforce"
+        ,monochrome=true
+        ,plugin = {"pretty","json:target/cucumber-report/cucumber.json"}
+)
+
+public class CucumberRunnerTest extends AbstractTestNGCucumberTests{
+
+}

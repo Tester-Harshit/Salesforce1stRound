@@ -1,0 +1,34 @@
+package com.salesforce.pages;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+
+import com.salesforce.webcommands.WebActions;
+
+public class SalesforceHomePage extends WebActions{
+
+	By applicationName = By.xpath("//*[@title = 'Service Cloud']");
+	
+	By appLauncher = By.xpath("//div[starts-with(@class,'appLauncher')]/button/div");
+	
+	By searchObject = By.xpath("//*[@role='combobox']/descendant::input[@type='search']");
+	
+	String xpathForObjName = "//*[@role='combobox']/descendant::b[contains(text(),'";
+	
+	
+	public void clickAppLauncher() throws Exception {
+		click(appLauncher, "App Launcher");
+	}
+	
+	public void navigateToApplication(String appName) throws Exception {
+		type(searchObject, appName, "Search");
+		By toSearch = By.xpath(xpathForObjName+appName+"')]");
+		click(toSearch, appName);
+	}
+	
+	public void navigateToObject(String objName) throws Exception {
+		type(searchObject, objName, "Search");
+		By toSearch = By.xpath(xpathForObjName+objName+"')]");
+		click(toSearch, objName);
+	}
+}

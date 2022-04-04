@@ -1,0 +1,66 @@
+package com.salesforce.pages;
+
+import java.io.IOException;
+import java.util.List;
+
+import org.apache.commons.lang3.exception.ExceptionUtils;
+import org.junit.Assert;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
+
+import com.relevantcodes.extentreports.LogStatus;
+import com.salesforce.utils.DecodingStrings;
+import com.salesforce.webcommands.WebActions;
+
+public class SalesforceLoginPage extends WebActions {
+
+	DecodingStrings ds = new DecodingStrings();
+
+	By username = By.id("username");
+
+	By password = By.id("password");
+
+	By login = By.id("Login");
+
+	By error = By.id("error");
+
+	public SalesforceLoginPage() {
+		String url = rf.getProperty("URL");
+		String actualUrl;
+		try {
+			driver.get(url);
+			actualUrl = driver.getCurrentUrl();
+			log.debug("Opening Salesforce Sandbox");
+			Assert.assertNotEquals(actualUrl, url);
+		} catch (Exception e) {
+			report.log(LogStatus.FAIL, report.addScreenCapture(screenshot())
+					+ "Unable to navigate to the specified URL\n" + ExceptionUtils.getStackTrace(e));
+		}
+	}
+
+	public void setUserName() {
+		type(username, rf.getProperty("Username"), "Usename");
+	}
+
+	public void setPassword() {
+		typePassword(password, ds.decoder(rf.getProperty("Password")), "Password");
+
+	}
+
+	public void clickLogin() throws InterruptedException {
+		click(login, "Login");
+		verifyLogin();
+
+	}
+
+	public void verifyLogin() {
+		String s = verifyElementIsPresent(error,"Login Error message");
+		if(s.equalsIgnoreCase("Yes")) {
+			report.log(LogStatus.FAIL,
+					report.addScreenCapture(screenshot()) + "Unable to Login Please verify the error message")
+			System.exit(0);		
+		}
+		else
+			report.log(LogStatus.PASS, "Login Successfull");		
+		}
+}

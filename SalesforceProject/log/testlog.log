@@ -1,0 +1,1630 @@
+2022-03-29 13:33:57,973 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-03-29 13:33:58,092 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-03-29 13:33:58,170 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-03-29 13:33:58,792 - Salesfoce User -DEBUG - User is able to click Login
+2022-03-29 13:33:58,927 - Salesfoce User -DEBUG - Login Error message is present
+2022-03-29 13:33:59,580 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-03-29 13:33:59,580 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-03-29 13:33:59,580 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-03-29 13:33:59,580 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-03-29 13:33:59,580 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-03-29 13:38:17,047 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-03-29 13:38:17,190 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-03-29 13:38:17,300 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-03-29 13:38:19,531 - Salesfoce User -DEBUG - User is able to click Login
+2022-03-29 13:38:19,592 - Salesfoce User -DEBUG - Login Error message is present
+2022-03-29 13:38:20,007 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-03-29 13:38:20,024 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-03-29 13:38:20,024 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-03-29 13:38:20,024 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-03-29 13:38:20,024 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-03-29 13:52:09,860 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-03-29 13:52:10,012 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-03-29 13:52:10,124 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-03-29 13:52:10,835 - Salesfoce User -DEBUG - User is able to click Login
+2022-03-29 13:52:10,978 - Salesfoce User -DEBUG - Login Error message is present
+2022-03-29 13:52:21,762 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-03-29 13:52:21,762 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-03-29 13:52:21,762 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-03-29 13:52:21,762 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-03-29 13:52:21,762 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-03-29 15:48:38,914 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-03-29 15:48:38,988 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-03-29 15:48:39,032 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-03-29 15:48:39,074 - Salesfoce User -DEBUG - User is able to click Login
+2022-03-29 15:48:59,562 - Salesfoce User -DEBUG - Login Error message is not present
+2022-03-29 15:48:59,689 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-03-29 15:49:01,253 - Salesfoce User -DEBUG - User is able to enter Service Cloud in Search field
+2022-03-29 15:49:01,313 - Salesfoce User -DEBUG - User is able to click Service Cloud
+2022-03-29 15:49:01,368 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-03-29 15:49:21,920 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-03-29 15:49:21,920 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-03-29 15:49:21,920 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-03-29 15:49:21,920 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-03-29 15:49:21,920 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-03-29 15:55:11,063 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-03-29 15:55:11,067 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-03-29 15:55:11,068 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-03-29 15:55:11,069 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-03-29 15:55:11,069 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-03-29 15:56:21,778 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-03-29 15:56:21,781 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-03-29 15:56:21,782 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-03-29 15:56:21,782 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-03-29 15:56:21,783 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-03-29 15:57:39,115 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-03-29 15:57:39,118 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-03-29 15:57:39,120 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-03-29 15:57:39,121 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-03-29 15:57:39,121 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-03-29 15:58:17,368 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-03-29 15:58:17,370 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-03-29 15:58:17,372 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-03-29 15:58:17,373 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-03-29 15:58:17,374 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-03-29 15:59:53,958 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-03-29 15:59:54,076 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-03-29 15:59:54,124 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-03-29 16:00:04,312 - Salesfoce User -DEBUG - User is able to click Login
+2022-03-29 16:00:14,371 - Salesfoce User -DEBUG - Login Error message is not present
+2022-03-29 16:00:14,471 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-03-29 16:00:15,822 - Salesfoce User -DEBUG - User is able to enter Service Cloud in Search field
+2022-03-29 16:00:15,884 - Salesfoce User -DEBUG - User is able to click Service Cloud
+2022-03-29 16:00:15,938 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-03-29 16:00:36,378 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-03-29 16:00:36,594 - Salesfoce User -DEBUG - User is able to click New Case
+2022-03-29 16:00:38,954 - Salesfoce User -DEBUG - User is able to click Case Origin
+2022-03-29 16:00:49,355 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-03-29 16:00:49,356 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-03-29 16:00:49,357 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-03-29 16:00:49,357 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-03-29 16:00:49,359 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-03-29 16:02:30,748 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-03-29 16:02:30,751 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-03-29 16:02:30,753 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-03-29 16:02:30,754 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-03-29 16:02:30,754 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-03-29 16:04:52,408 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-03-29 16:04:52,563 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-03-29 16:04:52,654 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-03-29 16:05:17,293 - Salesfoce User -DEBUG - User is able to click Login
+2022-03-29 16:05:48,603 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-03-29 16:05:48,603 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-03-29 16:05:48,603 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-03-29 16:05:48,603 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-03-29 16:05:48,603 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-03-29 16:06:53,531 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-03-29 16:06:53,670 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-03-29 16:06:53,749 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-03-29 16:07:04,659 - Salesfoce User -DEBUG - User is able to click Login
+2022-03-29 16:07:14,696 - Salesfoce User -DEBUG - Login Error message is not present
+2022-03-29 16:07:14,855 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-03-29 16:07:16,401 - Salesfoce User -DEBUG - User is able to enter Service Cloud in Search field
+2022-03-29 16:07:16,494 - Salesfoce User -DEBUG - User is able to click Service Cloud
+2022-03-29 16:07:16,588 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-03-29 16:07:47,888 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-03-29 16:07:47,889 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-03-29 16:07:47,890 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-03-29 16:07:47,891 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-03-29 16:07:47,891 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-03-29 16:08:46,361 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-03-29 16:08:46,529 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-03-29 16:08:46,616 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-03-29 16:08:58,232 - Salesfoce User -DEBUG - User is able to click Login
+2022-03-29 16:09:08,249 - Salesfoce User -DEBUG - Login Error message is not present
+2022-03-29 16:09:13,428 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-03-29 16:09:14,971 - Salesfoce User -DEBUG - User is able to enter Service Cloud in Search field
+2022-03-29 16:09:15,074 - Salesfoce User -DEBUG - User is able to click Service Cloud
+2022-03-29 16:09:20,295 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-03-29 16:09:21,418 - Salesfoce User -DEBUG - User is able to enter Cases in Search field
+2022-03-29 16:09:21,556 - Salesfoce User -DEBUG - User is able to click Cases
+2022-03-29 16:09:21,667 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-03-29 16:09:21,867 - Salesfoce User -DEBUG - User is able to click New Case
+2022-03-29 16:09:24,100 - Salesfoce User -DEBUG - User is able to click Case Origin
+2022-03-29 16:09:55,464 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-03-29 16:09:55,465 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-03-29 16:09:55,466 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-03-29 16:09:55,467 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-03-29 16:09:55,467 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-03-29 16:19:08,571 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-03-29 16:19:08,686 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-03-29 16:19:08,765 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-03-29 16:19:08,842 - Salesfoce User -DEBUG - User is able to click Login
+2022-03-29 16:19:28,583 - Salesfoce User -DEBUG - Login Error message is not present
+2022-03-29 16:19:33,746 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-03-29 16:19:35,828 - Salesfoce User -DEBUG - User is able to enter Service Cloud in Search field
+2022-03-29 16:19:35,971 - Salesfoce User -DEBUG - User is able to click Service Cloud
+2022-03-29 16:19:41,214 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-03-29 16:19:42,645 - Salesfoce User -DEBUG - User is able to enter Cases in Search field
+2022-03-29 16:19:42,800 - Salesfoce User -DEBUG - User is able to click Cases
+2022-03-29 16:19:42,891 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-03-29 16:19:43,007 - Salesfoce User -DEBUG - User is able to click New Case
+2022-03-29 16:19:46,240 - Salesfoce User -DEBUG - User is able to click Case Origin
+2022-03-29 16:19:46,916 - Salesfoce User -DEBUG - User is able to click Phone
+2022-03-29 16:19:47,135 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-03-29 16:19:47,151 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-03-29 16:19:47,151 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-03-29 16:19:47,151 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-03-29 16:19:47,151 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-03-29 16:20:26,796 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-03-29 16:20:26,905 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-03-29 16:20:26,992 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-03-29 16:20:27,089 - Salesfoce User -DEBUG - User is able to click Login
+2022-03-29 16:20:46,437 - Salesfoce User -DEBUG - Login Error message is not present
+2022-03-29 16:20:51,652 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-03-29 16:20:53,591 - Salesfoce User -DEBUG - User is able to enter Service Cloud in Search field
+2022-03-29 16:20:53,681 - Salesfoce User -DEBUG - User is able to click Service Cloud
+2022-03-29 16:20:58,868 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-03-29 16:21:00,062 - Salesfoce User -DEBUG - User is able to enter Cases in Search field
+2022-03-29 16:21:00,235 - Salesfoce User -DEBUG - User is able to click Cases
+2022-03-29 16:21:00,324 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-03-29 16:21:00,423 - Salesfoce User -DEBUG - User is able to click New Case
+2022-03-29 16:21:03,221 - Salesfoce User -DEBUG - User is able to click Case Origin
+2022-03-29 16:21:03,881 - Salesfoce User -DEBUG - User is able to click Phone
+2022-03-29 16:21:04,029 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-03-29 16:21:04,046 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-03-29 16:21:04,047 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-03-29 16:21:04,047 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-03-29 16:21:04,047 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-03-29 16:25:38,736 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-03-29 16:25:38,850 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-03-29 16:25:38,923 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-03-29 16:25:50,575 - Salesfoce User -DEBUG - User is able to click Login
+2022-03-29 16:26:00,609 - Salesfoce User -DEBUG - Login Error message is not present
+2022-03-29 16:26:05,852 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-03-29 16:26:08,013 - Salesfoce User -DEBUG - User is able to enter Service Cloud in Search field
+2022-03-29 16:26:08,156 - Salesfoce User -DEBUG - User is able to click Service Cloud
+2022-03-29 16:26:13,381 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-03-29 16:26:15,002 - Salesfoce User -DEBUG - User is able to enter Cases in Search field
+2022-03-29 16:26:15,156 - Salesfoce User -DEBUG - User is able to click Cases
+2022-03-29 16:26:15,240 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-03-29 16:26:15,326 - Salesfoce User -DEBUG - User is able to click New Case
+2022-03-29 16:26:17,390 - Salesfoce User -DEBUG - User is able to click Case Origin
+2022-03-29 16:26:18,025 - Salesfoce User -DEBUG - User is able to click Phone
+2022-03-29 16:26:18,149 - Salesfoce User -DEBUG - User is able to enter Password Request in Subject field
+2022-03-29 16:26:18,248 - Salesfoce User -DEBUG - User is able to click Save Button
+2022-03-29 16:26:18,409 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-03-29 16:26:18,410 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-03-29 16:26:18,410 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-03-29 16:26:18,411 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-03-29 16:26:18,411 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-03-29 16:27:26,205 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-03-29 16:27:26,316 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-03-29 16:27:26,393 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-03-29 16:27:26,471 - Salesfoce User -DEBUG - User is able to click Login
+2022-03-29 16:27:47,672 - Salesfoce User -DEBUG - Login Error message is not present
+2022-03-29 16:27:52,840 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-03-29 16:27:54,726 - Salesfoce User -DEBUG - User is able to enter Service Cloud in Search field
+2022-03-29 16:27:54,832 - Salesfoce User -DEBUG - User is able to click Service Cloud
+2022-03-29 16:28:00,081 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-03-29 16:28:01,015 - Salesfoce User -DEBUG - User is able to enter Cases in Search field
+2022-03-29 16:28:01,277 - Salesfoce User -DEBUG - User is able to click Cases
+2022-03-29 16:28:01,374 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-03-29 16:28:01,466 - Salesfoce User -DEBUG - User is able to click New Case
+2022-03-29 16:28:03,863 - Salesfoce User -DEBUG - User is able to click Case Origin
+2022-03-29 16:28:04,533 - Salesfoce User -DEBUG - User is able to click Phone
+2022-03-29 16:28:04,682 - Salesfoce User -DEBUG - User is able to enter Password Request in Subject field
+2022-03-29 16:28:04,790 - Salesfoce User -DEBUG - User is able to click Save Button
+2022-03-29 16:28:04,945 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-03-29 16:28:04,945 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-03-29 16:28:04,945 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-03-29 16:28:04,945 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-03-29 16:28:04,945 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-03-29 16:28:55,245 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-03-29 16:28:55,351 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-03-29 16:28:55,420 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-03-29 16:29:14,267 - Salesfoce User -DEBUG - User is able to click Login
+2022-03-29 16:29:24,328 - Salesfoce User -DEBUG - Login Error message is not present
+2022-03-29 16:29:29,524 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-03-29 16:29:32,368 - Salesfoce User -DEBUG - User is able to enter Service Cloud in Search field
+2022-03-29 16:29:32,489 - Salesfoce User -DEBUG - User is able to click Service Cloud
+2022-03-29 16:29:37,660 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-03-29 16:29:39,085 - Salesfoce User -DEBUG - User is able to enter Cases in Search field
+2022-03-29 16:29:39,808 - Salesfoce User -DEBUG - User is able to click Cases
+2022-03-29 16:29:39,901 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-03-29 16:29:40,036 - Salesfoce User -DEBUG - User is able to click New Case
+2022-03-29 16:29:42,528 - Salesfoce User -DEBUG - User is able to click Case Origin
+2022-03-29 16:29:43,214 - Salesfoce User -DEBUG - User is able to click Phone
+2022-03-29 16:29:43,369 - Salesfoce User -DEBUG - User is able to enter Password Request in Subject field
+2022-03-29 16:29:43,471 - Salesfoce User -DEBUG - User is able to click Save Button
+2022-03-29 16:29:53,661 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-03-29 16:29:53,661 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-03-29 16:29:53,661 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-03-29 16:29:53,661 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-03-29 16:29:53,661 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-03-29 19:16:28,670 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-03-29 19:16:28,807 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-03-29 19:16:28,931 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-03-29 19:16:44,542 - Salesfoce User -DEBUG - User is able to click Login
+2022-03-29 19:16:54,695 - Salesfoce User -DEBUG - Login Error message is not present
+2022-03-29 19:16:59,866 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-03-29 19:17:01,638 - Salesfoce User -DEBUG - User is able to enter Service Cloud in Search field
+2022-03-29 19:17:01,759 - Salesfoce User -DEBUG - User is able to click Service Cloud
+2022-03-29 19:17:06,883 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-03-29 19:17:08,681 - Salesfoce User -DEBUG - User is able to enter Cases in Search field
+2022-03-29 19:17:08,825 - Salesfoce User -DEBUG - User is able to click Cases
+2022-03-29 19:17:09,035 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-03-29 19:17:09,209 - Salesfoce User -DEBUG - User is able to click New Case
+2022-03-29 19:17:12,092 - Salesfoce User -DEBUG - User is able to click Case Origin
+2022-03-29 19:17:12,780 - Salesfoce User -DEBUG - User is able to click Phone
+2022-03-29 19:17:12,923 - Salesfoce User -DEBUG - User is able to enter Password Request in Subject field
+2022-03-29 19:17:13,023 - Salesfoce User -DEBUG - User is able to click Save Button
+2022-03-29 19:17:33,122 - Salesfoce User -DEBUG - Actual value ofCase Origin is same as expected value
+2022-03-29 19:17:33,316 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-03-29 19:17:33,317 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-03-29 19:17:33,319 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-03-29 19:17:33,319 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-03-29 19:17:33,320 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-03-30 12:36:38,185 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-03-30 12:36:38,344 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-03-30 12:36:38,448 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-03-30 12:36:49,651 - Salesfoce User -DEBUG - User is able to click Login
+2022-03-30 12:36:59,670 - Salesfoce User -DEBUG - Login Error message is not present
+2022-03-30 12:37:04,868 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-03-30 12:37:06,374 - Salesfoce User -DEBUG - User is able to enter Service Cloud in Search field
+2022-03-30 12:37:06,531 - Salesfoce User -DEBUG - User is able to click Service Cloud
+2022-03-30 12:37:11,729 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-03-30 12:37:18,266 - Salesfoce User -DEBUG - User is able to enter Cases in Search field
+2022-03-30 12:37:18,556 - Salesfoce User -DEBUG - User is able to click Cases
+2022-03-30 12:37:18,802 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-03-30 12:37:18,802 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-03-30 12:37:18,802 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-03-30 12:37:18,802 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-03-30 12:37:18,802 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-03-30 17:01:20,153 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-03-30 17:01:20,343 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-03-30 17:01:20,495 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-03-30 17:01:34,460 - Salesfoce User -DEBUG - User is able to click Login
+2022-03-30 17:01:44,503 - Salesfoce User -DEBUG - Login Error message is not present
+2022-03-30 17:01:49,677 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-03-30 17:01:51,568 - Salesfoce User -DEBUG - User is able to enter Service Cloud in Search field
+2022-03-30 17:01:51,713 - Salesfoce User -DEBUG - User is able to click Service Cloud
+2022-03-30 17:01:56,983 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-03-30 17:01:57,895 - Salesfoce User -DEBUG - User is able to enter Cases in Search field
+2022-03-30 17:01:58,057 - Salesfoce User -DEBUG - User is able to click Cases
+2022-03-30 17:01:58,304 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-03-30 17:04:54,594 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-03-30 17:04:54,595 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-03-30 17:04:54,596 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-03-30 17:04:54,597 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-03-30 17:04:54,597 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-03-30 17:13:37,585 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-03-30 17:13:37,668 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-03-30 17:13:37,729 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-03-30 17:13:47,435 - Salesfoce User -DEBUG - User is able to click Login
+2022-03-30 17:13:57,488 - Salesfoce User -DEBUG - Login Error message is not present
+2022-03-30 17:14:02,642 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-03-30 17:14:04,225 - Salesfoce User -DEBUG - User is able to enter Service Cloud in Search field
+2022-03-30 17:14:04,307 - Salesfoce User -DEBUG - User is able to click Service Cloud
+2022-03-30 17:14:09,444 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-03-30 17:14:10,397 - Salesfoce User -DEBUG - User is able to enter Cases in Search field
+2022-03-30 17:14:10,517 - Salesfoce User -DEBUG - User is able to click Cases
+2022-03-30 17:14:10,583 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-03-30 17:14:10,667 - Salesfoce User -DEBUG - User is able to click Case List vie Drop Down
+2022-03-30 17:14:11,263 - Salesfoce User -DEBUG - User is able to click Case with origin List View
+2022-03-30 17:16:36,971 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-03-30 17:16:36,971 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-03-30 17:16:36,971 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-03-30 17:16:36,971 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-03-30 17:16:36,971 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-03-30 17:19:25,934 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-03-30 17:19:26,022 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-03-30 17:19:26,082 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-03-30 17:19:36,139 - Salesfoce User -DEBUG - User is able to click Login
+2022-03-30 17:19:46,151 - Salesfoce User -DEBUG - Login Error message is not present
+2022-03-30 17:19:51,344 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-03-30 17:19:52,675 - Salesfoce User -DEBUG - User is able to enter Service Cloud in Search field
+2022-03-30 17:19:52,764 - Salesfoce User -DEBUG - User is able to click Service Cloud
+2022-03-30 17:19:58,029 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-03-30 17:19:58,861 - Salesfoce User -DEBUG - User is able to enter Cases in Search field
+2022-03-30 17:19:59,008 - Salesfoce User -DEBUG - User is able to click Cases
+2022-03-30 17:19:59,094 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-03-30 17:19:59,183 - Salesfoce User -DEBUG - User is able to click Case List vie Drop Down
+2022-03-30 17:20:00,360 - Salesfoce User -DEBUG - User is able to click Case with origin List View
+2022-03-30 17:20:02,550 - Salesfoce User -DEBUG - User is able to click Case with Origin as Phone
+2022-03-30 17:20:03,800 - Salesfoce User -DEBUG - User is able to click Edit Button
+2022-03-30 17:20:04,535 - Salesfoce User -DEBUG - Clearing the Case Subject text box
+2022-03-30 17:20:04,601 - Salesfoce User -DEBUG - User is able to click Save Button
+2022-03-30 17:20:56,072 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-03-30 17:20:56,073 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-03-30 17:20:56,074 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-03-30 17:20:56,075 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-03-30 17:20:56,076 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-03-30 17:22:53,573 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-03-30 17:22:53,664 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-03-30 17:22:53,731 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-03-30 17:23:03,829 - Salesfoce User -DEBUG - User is able to click Login
+2022-03-30 17:23:13,840 - Salesfoce User -DEBUG - Login Error message is not present
+2022-03-30 17:23:18,999 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-03-30 17:23:20,662 - Salesfoce User -DEBUG - User is able to enter Service Cloud in Search field
+2022-03-30 17:23:20,735 - Salesfoce User -DEBUG - User is able to click Service Cloud
+2022-03-30 17:23:25,905 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-03-30 17:23:26,775 - Salesfoce User -DEBUG - User is able to enter Cases in Search field
+2022-03-30 17:23:26,903 - Salesfoce User -DEBUG - User is able to click Cases
+2022-03-30 17:23:27,047 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-03-30 17:23:27,169 - Salesfoce User -DEBUG - User is able to click Case List vie Drop Down
+2022-03-30 17:23:28,268 - Salesfoce User -DEBUG - User is able to click Case with origin List View
+2022-03-30 17:23:30,416 - Salesfoce User -DEBUG - User is able to click Case with Origin as Phone
+2022-03-30 17:23:30,550 - Salesfoce User -DEBUG - User is able to click Edit Button
+2022-03-30 17:23:31,273 - Salesfoce User -DEBUG - Clearing the Case Subject text box
+2022-03-30 17:23:31,334 - Salesfoce User -DEBUG - User is able to click Save Button
+2022-03-30 17:23:32,071 - Salesfoce User -DEBUG - Success Message is displayed
+2022-03-30 17:23:32,240 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-03-30 17:23:32,240 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-03-30 17:23:32,240 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-03-30 17:23:32,240 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-03-30 17:23:32,240 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-03-30 17:24:42,907 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-03-30 17:24:42,994 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-03-30 17:24:43,052 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-03-30 17:24:53,753 - Salesfoce User -DEBUG - User is able to click Login
+2022-03-30 17:25:03,800 - Salesfoce User -DEBUG - Login Error message is not present
+2022-03-30 17:25:08,980 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-03-30 17:25:10,460 - Salesfoce User -DEBUG - User is able to enter Service Cloud in Search field
+2022-03-30 17:25:10,549 - Salesfoce User -DEBUG - User is able to click Service Cloud
+2022-03-30 17:25:15,850 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-03-30 17:25:16,684 - Salesfoce User -DEBUG - User is able to enter Cases in Search field
+2022-03-30 17:25:16,815 - Salesfoce User -DEBUG - User is able to click Cases
+2022-03-30 17:25:16,960 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-03-30 17:25:17,082 - Salesfoce User -DEBUG - User is able to click Case List vie Drop Down
+2022-03-30 17:25:18,891 - Salesfoce User -DEBUG - User is able to click Case with origin List View
+2022-03-30 17:25:21,055 - Salesfoce User -DEBUG - User is able to click Case with Origin as Phone
+2022-03-30 17:25:21,219 - Salesfoce User -DEBUG - User is able to click Edit Button
+2022-03-30 17:25:21,933 - Salesfoce User -DEBUG - Clearing the Case Subject text box
+2022-03-30 17:25:21,998 - Salesfoce User -DEBUG - User is able to click Save Button
+2022-03-30 17:25:23,378 - Salesfoce User -DEBUG - Success Message is displayed
+2022-03-30 17:25:23,586 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-03-30 17:25:23,586 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-03-30 17:25:23,586 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-03-30 17:25:23,602 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-03-30 17:25:23,602 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-03-30 17:26:24,230 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-03-30 17:26:24,318 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-03-30 17:26:24,383 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-03-30 17:26:37,543 - Salesfoce User -DEBUG - User is able to click Login
+2022-03-30 17:26:47,599 - Salesfoce User -DEBUG - Login Error message is not present
+2022-03-30 17:26:52,852 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-03-30 17:26:54,289 - Salesfoce User -DEBUG - User is able to enter Service Cloud in Search field
+2022-03-30 17:26:54,388 - Salesfoce User -DEBUG - User is able to click Service Cloud
+2022-03-30 17:26:59,498 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-03-30 17:27:00,585 - Salesfoce User -DEBUG - User is able to enter Cases in Search field
+2022-03-30 17:27:00,708 - Salesfoce User -DEBUG - User is able to click Cases
+2022-03-30 17:27:00,985 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-03-30 17:27:01,072 - Salesfoce User -DEBUG - User is able to click Case List vie Drop Down
+2022-03-30 17:27:01,654 - Salesfoce User -DEBUG - User is able to click Case with origin List View
+2022-03-30 17:27:03,810 - Salesfoce User -DEBUG - User is able to click Case with Origin as Phone
+2022-03-30 17:27:03,919 - Salesfoce User -DEBUG - User is able to click Edit Button
+2022-03-30 17:27:05,241 - Salesfoce User -DEBUG - User is able to click Case Subject
+2022-03-30 17:27:05,258 - Salesfoce User -DEBUG - Clearing the Case Subject text box
+2022-03-30 17:27:05,319 - Salesfoce User -DEBUG - User is able to click Save Button
+2022-03-30 17:27:06,477 - Salesfoce User -DEBUG - Success Message is displayed
+2022-03-30 17:27:06,657 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-03-30 17:27:06,673 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-03-30 17:27:06,673 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-03-30 17:27:06,673 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-03-30 17:27:06,673 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-03-30 17:28:27,790 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-03-30 17:28:27,880 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-03-30 17:28:27,943 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-03-30 17:28:38,183 - Salesfoce User -DEBUG - User is able to click Login
+2022-03-30 17:28:48,256 - Salesfoce User -DEBUG - Login Error message is not present
+2022-03-30 17:28:53,420 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-03-30 17:28:54,789 - Salesfoce User -DEBUG - User is able to enter Service Cloud in Search field
+2022-03-30 17:28:54,860 - Salesfoce User -DEBUG - User is able to click Service Cloud
+2022-03-30 17:29:00,013 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-03-30 17:29:06,808 - Salesfoce User -DEBUG - User is able to enter Cases in Search field
+2022-03-30 17:29:06,908 - Salesfoce User -DEBUG - User is able to click Cases
+2022-03-30 17:29:07,047 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-03-30 17:29:07,144 - Salesfoce User -DEBUG - User is able to click Case List vie Drop Down
+2022-03-30 17:29:07,776 - Salesfoce User -DEBUG - User is able to click Case with origin List View
+2022-03-30 17:29:09,930 - Salesfoce User -DEBUG - User is able to click Case with Origin as Phone
+2022-03-30 17:29:10,037 - Salesfoce User -DEBUG - User is able to click Edit Button
+2022-03-30 17:29:12,096 - Salesfoce User -DEBUG - User is able to click Case Subject
+2022-03-30 17:30:22,869 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-03-30 17:30:22,955 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-03-30 17:30:23,018 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-03-30 17:30:23,079 - Salesfoce User -DEBUG - User is able to click Login
+2022-03-30 17:30:45,641 - Salesfoce User -DEBUG - Login Error message is not present
+2022-03-30 17:30:50,766 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-03-30 17:30:52,104 - Salesfoce User -DEBUG - User is able to enter Service Cloud in Search field
+2022-03-30 17:30:52,183 - Salesfoce User -DEBUG - User is able to click Service Cloud
+2022-03-30 17:30:57,318 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-03-30 17:30:58,170 - Salesfoce User -DEBUG - User is able to enter Cases in Search field
+2022-03-30 17:30:58,391 - Salesfoce User -DEBUG - User is able to click Cases
+2022-03-30 17:30:58,530 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-03-30 17:30:58,615 - Salesfoce User -DEBUG - User is able to click Case List vie Drop Down
+2022-03-30 17:30:59,302 - Salesfoce User -DEBUG - User is able to click Case with origin List View
+2022-03-30 17:31:01,482 - Salesfoce User -DEBUG - User is able to click Case with Origin as Phone
+2022-03-30 17:31:01,636 - Salesfoce User -DEBUG - User is able to click Edit Button
+2022-03-30 17:31:02,432 - Salesfoce User -DEBUG - User is able to click Case Subject
+2022-03-30 17:32:45,155 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-03-30 17:32:45,244 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-03-30 17:32:45,305 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-03-30 17:32:45,363 - Salesfoce User -DEBUG - User is able to click Login
+2022-03-30 17:33:07,591 - Salesfoce User -DEBUG - Login Error message is not present
+2022-03-30 17:33:07,727 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-03-30 17:33:09,140 - Salesfoce User -DEBUG - User is able to enter Service Cloud in Search field
+2022-03-30 17:33:09,215 - Salesfoce User -DEBUG - User is able to click Service Cloud
+2022-03-30 17:33:09,287 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-03-30 17:33:20,872 - Salesfoce User -DEBUG - User is able to enter Cases in Search field
+2022-03-30 17:33:21,004 - Salesfoce User -DEBUG - User is able to click Cases
+2022-03-30 17:33:21,179 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-03-30 17:33:21,266 - Salesfoce User -DEBUG - User is able to click Case List vie Drop Down
+2022-03-30 17:33:21,891 - Salesfoce User -DEBUG - User is able to click Case with origin List View
+2022-03-30 17:33:22,809 - Salesfoce User -DEBUG - User is able to click Case with Origin as Phone
+2022-03-30 17:33:22,956 - Salesfoce User -DEBUG - User is able to click Edit Button
+2022-03-30 17:33:24,213 - Salesfoce User -DEBUG - User is able to click Case Subject
+2022-03-30 17:33:24,258 - Salesfoce User -DEBUG - Clearing the Case Subject text box
+2022-03-30 17:33:24,341 - Salesfoce User -DEBUG - User is able to click Save Button
+2022-03-30 17:33:25,864 - Salesfoce User -DEBUG - Success Message is displayed
+2022-03-30 17:33:26,038 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-03-30 17:33:26,054 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-03-30 17:33:26,054 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-03-30 17:33:26,054 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-03-30 17:33:26,054 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-03-30 17:34:24,835 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-03-30 17:34:24,918 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-03-30 17:34:24,980 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-03-30 17:34:37,575 - Salesfoce User -DEBUG - User is able to click Login
+2022-03-30 17:34:47,574 - Salesfoce User -DEBUG - Login Error message is not present
+2022-03-30 17:34:50,742 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-03-30 17:34:52,063 - Salesfoce User -DEBUG - User is able to enter Service Cloud in Search field
+2022-03-30 17:34:52,136 - Salesfoce User -DEBUG - User is able to click Service Cloud
+2022-03-30 17:34:55,253 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-03-30 17:34:57,455 - Salesfoce User -DEBUG - User is able to enter Cases in Search field
+2022-03-30 17:34:57,559 - Salesfoce User -DEBUG - User is able to click Cases
+2022-03-30 17:34:57,731 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-03-30 17:34:57,798 - Salesfoce User -DEBUG - User is able to click New Case
+2022-03-30 17:35:00,307 - Salesfoce User -DEBUG - User is able to click Case Origin
+2022-03-30 17:35:00,918 - Salesfoce User -DEBUG - User is able to click Phone
+2022-03-30 17:35:01,010 - Salesfoce User -DEBUG - User is able to enter Password Request in Subject field
+2022-03-30 17:35:01,076 - Salesfoce User -DEBUG - User is able to click Save Button
+2022-03-30 17:35:03,590 - Salesfoce User -DEBUG - Success Message is displayed
+2022-03-30 17:35:03,622 - Salesfoce User -DEBUG - Actual value of Case Origin is same as expected value
+2022-03-30 17:35:03,767 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-03-30 17:35:03,767 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-03-30 17:35:03,783 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-03-30 17:35:03,783 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-03-30 17:35:03,783 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-03-30 17:35:08,506 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-03-30 17:35:08,567 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-03-30 17:35:08,619 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-03-30 17:35:18,348 - Salesfoce User -DEBUG - User is able to click Login
+2022-03-30 17:35:28,368 - Salesfoce User -DEBUG - Login Error message is not present
+2022-03-30 17:35:31,491 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-03-30 17:35:32,862 - Salesfoce User -DEBUG - User is able to enter Service Cloud in Search field
+2022-03-30 17:35:32,924 - Salesfoce User -DEBUG - User is able to click Service Cloud
+2022-03-30 17:35:36,069 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-03-30 17:35:37,624 - Salesfoce User -DEBUG - User is able to enter Cases in Search field
+2022-03-30 17:35:37,757 - Salesfoce User -DEBUG - User is able to click Cases
+2022-03-30 17:35:37,905 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-03-30 17:35:37,991 - Salesfoce User -DEBUG - User is able to click Case List vie Drop Down
+2022-03-30 17:35:38,558 - Salesfoce User -DEBUG - User is able to click Case with origin List View
+2022-03-30 17:35:42,123 - Salesfoce User -DEBUG - User is able to click Case with Origin as Phone
+2022-03-30 17:35:42,197 - Salesfoce User -DEBUG - User is able to click Edit Button
+2022-03-30 17:35:44,708 - Salesfoce User -DEBUG - User is able to click Case Subject
+2022-03-30 17:35:44,735 - Salesfoce User -DEBUG - Clearing the Case Subject text box
+2022-03-30 17:35:44,790 - Salesfoce User -DEBUG - User is able to click Save Button
+2022-03-30 17:35:45,503 - Salesfoce User -DEBUG - Success Message is displayed
+2022-03-30 17:35:45,667 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-03-30 17:35:45,667 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-03-30 17:35:45,667 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-03-30 17:35:45,667 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-03-30 17:35:45,667 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-03-30 17:38:58,500 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-03-30 17:38:58,588 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-03-30 17:38:58,651 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-03-30 17:39:08,731 - Salesfoce User -DEBUG - User is able to click Login
+2022-03-30 17:39:18,789 - Salesfoce User -DEBUG - Login Error message is not present
+2022-03-30 17:39:21,934 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-03-30 17:39:24,158 - Salesfoce User -DEBUG - User is able to enter Service Cloud in Search field
+2022-03-30 17:39:24,249 - Salesfoce User -DEBUG - User is able to click Service Cloud
+2022-03-30 17:39:27,390 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-03-30 17:39:41,634 - Salesfoce User -DEBUG - User is able to enter Cases in Search field
+2022-03-30 17:39:41,737 - Salesfoce User -DEBUG - User is able to click Cases
+2022-03-30 17:39:41,911 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-03-30 17:39:42,089 - Salesfoce User -DEBUG - User is able to click New Case
+2022-03-30 17:39:44,031 - Salesfoce User -DEBUG - User is able to click Case Origin
+2022-03-30 17:39:44,680 - Salesfoce User -DEBUG - User is able to click Phone
+2022-03-30 17:39:44,778 - Salesfoce User -DEBUG - User is able to enter Password Request in Subject field
+2022-03-30 17:39:44,844 - Salesfoce User -DEBUG - User is able to click Save Button
+2022-03-30 17:39:45,824 - Salesfoce User -DEBUG - Success Message is displayed
+2022-03-30 17:39:45,853 - Salesfoce User -DEBUG - Actual value of Case Origin is same as expected value
+2022-03-30 17:39:50,404 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-03-30 17:39:50,485 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-03-30 17:39:50,546 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-03-30 17:39:59,671 - Salesfoce User -DEBUG - User is able to click Login
+2022-03-30 17:40:09,701 - Salesfoce User -DEBUG - Login Error message is not present
+2022-03-30 17:40:12,850 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-03-30 17:40:14,945 - Salesfoce User -DEBUG - User is able to enter Service Cloud in Search field
+2022-03-30 17:40:15,013 - Salesfoce User -DEBUG - User is able to click Service Cloud
+2022-03-30 17:40:18,106 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-03-30 17:40:19,119 - Salesfoce User -DEBUG - User is able to enter Cases in Search field
+2022-03-30 17:40:19,185 - Salesfoce User -DEBUG - User is able to click Cases
+2022-03-30 17:40:19,246 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-03-30 17:40:19,331 - Salesfoce User -DEBUG - User is able to click Case List vie Drop Down
+2022-03-30 17:40:19,903 - Salesfoce User -DEBUG - User is able to click Case with origin List View
+2022-03-30 17:40:20,925 - Salesfoce User -DEBUG - User is able to click Case with Origin as Phone
+2022-03-30 17:40:21,044 - Salesfoce User -DEBUG - User is able to click Edit Button
+2022-03-30 17:40:22,360 - Salesfoce User -DEBUG - User is able to click Case Subject
+2022-03-30 17:40:22,388 - Salesfoce User -DEBUG - Clearing the Case Subject text box
+2022-03-30 17:40:22,447 - Salesfoce User -DEBUG - User is able to click Save Button
+2022-03-30 17:40:23,578 - Salesfoce User -DEBUG - Success Message is displayed
+2022-03-30 17:53:27,022 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-03-30 17:53:27,112 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-03-30 17:53:27,175 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-03-30 17:53:37,679 - Salesfoce User -DEBUG - User is able to click Login
+2022-03-30 17:53:47,696 - Salesfoce User -DEBUG - Login Error message is not present
+2022-03-30 17:53:50,842 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-03-30 17:53:53,386 - Salesfoce User -DEBUG - User is able to enter Service Cloud in Search field
+2022-03-30 17:53:53,455 - Salesfoce User -DEBUG - User is able to click Service Cloud
+2022-03-30 17:53:56,552 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-03-30 17:53:58,397 - Salesfoce User -DEBUG - User is able to enter Cases in Search field
+2022-03-30 17:53:58,519 - Salesfoce User -DEBUG - User is able to click Cases
+2022-03-30 17:53:58,677 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-03-30 17:53:58,759 - Salesfoce User -DEBUG - User is able to click New Case
+2022-03-30 17:54:01,189 - Salesfoce User -DEBUG - User is able to click Case Origin
+2022-03-30 17:54:01,799 - Salesfoce User -DEBUG - User is able to click Phone
+2022-03-30 17:54:01,902 - Salesfoce User -DEBUG - User is able to enter Password Request in Subject field
+2022-03-30 17:54:01,970 - Salesfoce User -DEBUG - User is able to click Save Button
+2022-03-30 17:54:04,275 - Salesfoce User -DEBUG - Success Message is displayed
+2022-03-30 17:54:04,311 - Salesfoce User -DEBUG - Actual value of Case Origin is same as expected value
+2022-03-30 17:54:04,460 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-03-30 17:54:04,467 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-03-30 17:54:04,468 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-03-30 17:54:04,472 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-03-30 17:54:04,472 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-03-30 17:54:09,018 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-03-30 17:54:09,086 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-03-30 17:54:09,141 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-03-30 17:54:19,563 - Salesfoce User -DEBUG - User is able to click Login
+2022-03-30 17:54:29,622 - Salesfoce User -DEBUG - Login Error message is not present
+2022-03-30 17:54:32,870 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-03-30 17:54:34,968 - Salesfoce User -DEBUG - User is able to enter Service Cloud in Search field
+2022-03-30 17:54:35,031 - Salesfoce User -DEBUG - User is able to click Service Cloud
+2022-03-30 17:54:38,128 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-03-30 17:54:39,312 - Salesfoce User -DEBUG - User is able to enter Cases in Search field
+2022-03-30 17:54:39,388 - Salesfoce User -DEBUG - User is able to click Cases
+2022-03-30 17:54:39,474 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-03-30 17:54:39,690 - Salesfoce User -DEBUG - User is able to click Case List vie Drop Down
+2022-03-30 17:54:40,179 - Salesfoce User -DEBUG - User is able to click Case with origin List View
+2022-03-30 17:54:41,305 - Salesfoce User -DEBUG - User is able to click Case with Origin as Phone
+2022-03-30 17:54:41,411 - Salesfoce User -DEBUG - User is able to click Edit Button
+2022-03-30 17:54:42,750 - Salesfoce User -DEBUG - User is able to click Case Subject
+2022-03-30 17:54:42,778 - Salesfoce User -DEBUG - Clearing the Case Subject text box
+2022-03-30 17:54:42,846 - Salesfoce User -DEBUG - User is able to click Save Button
+2022-03-30 17:54:44,457 - Salesfoce User -DEBUG - Success Message is displayed
+2022-03-30 17:54:44,641 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-03-30 17:54:44,641 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-03-30 17:54:44,642 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-03-30 17:54:44,642 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-03-30 17:54:44,642 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-03-30 17:57:24,692 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-03-30 17:57:24,788 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-03-30 17:57:29,031 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-03-30 17:57:29,101 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-01 13:18:56,653 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-01 13:18:56,755 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-01 13:18:57,092 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-04-01 13:18:57,093 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-04-01 13:18:57,094 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-04-01 13:18:57,094 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-04-01 13:18:57,094 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-04-01 13:19:00,118 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-01 13:19:00,194 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-01 13:19:00,426 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-04-01 13:19:00,427 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-04-01 13:19:00,427 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-04-01 13:19:00,427 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-04-01 13:19:00,428 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-04-01 13:36:31,955 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-01 13:36:32,049 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-01 13:36:32,112 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-01 13:36:41,071 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-01 13:36:51,121 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-01 13:36:54,304 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-04-01 13:36:55,528 - Salesfoce User -DEBUG - User is able to enter Service Cloud in Search field
+2022-04-01 13:36:55,797 - Salesfoce User -DEBUG - User is able to click Service Cloud
+2022-04-01 14:04:25,539 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-01 14:04:25,633 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-01 14:04:25,694 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-01 14:04:28,720 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-01 14:04:43,552 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-01 14:04:46,633 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-04-01 14:04:48,257 - Salesfoce User -DEBUG - User is able to enter Service Cloud in Search field
+2022-04-01 14:04:48,327 - Salesfoce User -DEBUG - User is able to click Service Cloud
+2022-04-01 14:04:51,430 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-04-01 14:04:52,138 - Salesfoce User -DEBUG - User is able to enter Cases in Search field
+2022-04-01 14:04:52,234 - Salesfoce User -DEBUG - User is able to click Cases
+2022-04-01 14:04:52,290 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-04-01 14:06:16,972 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-01 14:06:17,067 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-01 14:06:17,130 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-01 14:06:20,389 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-01 14:06:38,659 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-01 14:06:41,782 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-04-01 14:06:43,326 - Salesfoce User -DEBUG - User is able to enter Service Cloud in Search field
+2022-04-01 14:06:43,538 - Salesfoce User -DEBUG - User is able to click Service Cloud
+2022-04-01 14:06:46,686 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-04-01 14:06:47,407 - Salesfoce User -DEBUG - User is able to enter Cases in Search field
+2022-04-01 14:06:47,692 - Salesfoce User -DEBUG - User is able to click Cases
+2022-04-01 14:06:47,767 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-04-01 14:06:47,866 - Salesfoce User -DEBUG - User is able to click Case List vie Drop Down
+2022-04-01 14:06:48,355 - Salesfoce User -DEBUG - User is able to click Case with origin List View
+2022-04-01 14:06:49,036 - Salesfoce User -DEBUG - User is able to click Case with Origin as Phone
+2022-04-01 14:07:25,261 - Salesfoce User -DEBUG - User is able to click Case Subject
+2022-04-01 14:07:25,290 - Salesfoce User -DEBUG - Clearing the Case Subject text box
+2022-04-01 14:07:25,351 - Salesfoce User -DEBUG - User is able to click Save Button
+2022-04-01 14:07:26,519 - Salesfoce User -DEBUG - Success Message is displayed
+2022-04-01 14:07:26,712 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-04-01 14:07:26,728 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-04-01 14:07:26,728 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-04-01 14:07:26,728 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-04-01 14:07:26,728 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-04-01 16:13:37,046 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-01 16:13:37,135 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-01 16:13:37,196 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-01 16:13:37,261 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-01 16:13:56,138 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-01 16:13:59,317 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-04-01 16:14:00,474 - Salesfoce User -DEBUG - User is able to enter Service Cloud in Search field
+2022-04-01 16:14:00,550 - Salesfoce User -DEBUG - User is able to click Service Cloud
+2022-04-01 16:14:08,882 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-04-01 16:14:09,568 - Salesfoce User -DEBUG - User is able to enter Cases in Search field
+2022-04-01 16:14:09,671 - Salesfoce User -DEBUG - User is able to click Cases
+2022-04-01 16:14:09,750 - Salesfoce User -DEBUG - User is able to click Case Number
+2022-04-01 16:14:09,870 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-04-01 16:14:09,870 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-04-01 16:14:09,870 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-04-01 16:14:09,870 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-04-01 16:14:09,886 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-04-01 16:16:37,127 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-01 16:16:37,233 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-01 16:16:37,299 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-01 16:19:22,446 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-01 16:19:22,529 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-01 16:19:22,591 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-01 16:19:40,780 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-01 16:19:50,815 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-01 16:19:53,894 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-04-01 16:20:01,905 - Salesfoce User -DEBUG - User is able to enter Service Cloud in Search field
+2022-04-01 16:20:01,976 - Salesfoce User -DEBUG - User is able to click Service Cloud
+2022-04-01 16:20:09,274 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-04-01 16:20:10,491 - Salesfoce User -DEBUG - User is able to enter Cases in Search field
+2022-04-01 16:20:10,565 - Salesfoce User -DEBUG - User is able to click Cases
+2022-04-01 16:20:10,638 - Salesfoce User -DEBUG - User is able to click Case Number
+2022-04-01 16:20:19,626 - Salesfoce User -DEBUG - User is able to click Delete
+2022-04-01 16:20:20,243 - Salesfoce User -DEBUG - User is able to click Confirm Delete
+2022-04-01 16:20:26,890 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-04-01 16:20:26,890 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-04-01 16:20:26,905 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-04-01 16:20:26,905 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-04-01 16:20:26,905 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-04-01 16:21:57,969 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-01 16:21:58,059 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-01 16:21:58,120 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-01 16:22:54,464 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-01 16:23:07,695 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-01 16:23:07,791 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-01 16:23:07,856 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-01 16:23:10,881 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-01 16:23:25,638 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-01 16:23:28,760 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-04-01 16:23:29,884 - Salesfoce User -DEBUG - User is able to enter Service Cloud in Search field
+2022-04-01 16:23:29,960 - Salesfoce User -DEBUG - User is able to click Service Cloud
+2022-04-01 16:23:33,102 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-04-01 16:23:33,801 - Salesfoce User -DEBUG - User is able to enter Cases in Search field
+2022-04-01 16:23:33,942 - Salesfoce User -DEBUG - User is able to click Cases
+2022-04-01 16:23:34,007 - Salesfoce User -DEBUG - User is able to click Case Number
+2022-04-01 16:23:36,531 - Salesfoce User -DEBUG - User is able to click Delete
+2022-04-01 16:23:37,171 - Salesfoce User -DEBUG - User is able to click Confirm Delete
+2022-04-01 16:23:38,207 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-04-01 16:23:38,207 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-04-01 16:23:38,207 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-04-01 16:23:38,207 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-04-01 16:23:38,207 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-04-01 16:33:23,859 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-01 16:33:23,955 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-01 16:33:24,019 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-01 16:33:27,446 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-01 16:33:42,843 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-01 16:33:45,989 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-04-01 16:33:47,084 - Salesfoce User -DEBUG - User is able to enter Service Cloud in Search field
+2022-04-01 16:33:47,167 - Salesfoce User -DEBUG - User is able to click Service Cloud
+2022-04-01 16:33:50,400 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-04-01 16:33:51,439 - Salesfoce User -DEBUG - User is able to enter Cases in Search field
+2022-04-01 16:33:51,592 - Salesfoce User -DEBUG - User is able to click Cases
+2022-04-01 16:33:51,698 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-04-01 16:33:51,932 - Salesfoce User -DEBUG - User is able to click Case List vie Drop Down
+2022-04-01 16:33:52,587 - Salesfoce User -DEBUG - User is able to click Case with origin List View
+2022-04-01 16:33:53,896 - Salesfoce User -DEBUG - User is able to click Case with Origin as Phone
+2022-04-01 16:33:54,137 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-04-01 16:33:54,152 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-04-01 16:33:54,152 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-04-01 16:33:54,152 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-04-01 16:33:54,152 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-04-01 16:34:22,229 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-01 16:34:22,377 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-01 16:34:22,469 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-01 16:34:22,572 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-01 16:34:40,731 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-01 16:34:43,889 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-04-01 16:34:45,180 - Salesfoce User -DEBUG - User is able to enter Service Cloud in Search field
+2022-04-01 16:34:45,310 - Salesfoce User -DEBUG - User is able to click Service Cloud
+2022-04-01 16:34:48,586 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-04-01 16:34:49,451 - Salesfoce User -DEBUG - User is able to enter Cases in Search field
+2022-04-01 16:34:49,617 - Salesfoce User -DEBUG - User is able to click Cases
+2022-04-01 16:34:49,738 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-04-01 16:34:49,978 - Salesfoce User -DEBUG - User is able to click Case List vie Drop Down
+2022-04-01 16:34:50,514 - Salesfoce User -DEBUG - User is able to click Case with origin List View
+2022-04-01 16:34:51,362 - Salesfoce User -DEBUG - User is able to click Case with Origin as Phone
+2022-04-01 16:36:57,555 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-04-01 16:36:57,557 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-04-01 16:36:57,559 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-04-01 16:36:57,560 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-04-01 16:36:57,561 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-04-01 17:02:36,981 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-01 17:02:37,134 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-01 17:02:37,232 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-01 17:02:45,570 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-01 17:02:55,601 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-01 17:02:58,731 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-04-01 17:02:59,910 - Salesfoce User -DEBUG - User is able to enter Service Cloud in Search field
+2022-04-01 17:03:00,031 - Salesfoce User -DEBUG - User is able to click Service Cloud
+2022-04-01 17:03:03,453 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-04-01 17:03:04,580 - Salesfoce User -DEBUG - User is able to enter Cases in Search field
+2022-04-01 17:03:04,808 - Salesfoce User -DEBUG - User is able to click Cases
+2022-04-01 17:03:04,917 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-04-01 17:03:05,059 - Salesfoce User -DEBUG - User is able to click Case List view Drop Down
+2022-04-01 17:03:05,697 - Salesfoce User -DEBUG - User is able to click Case with origin List View
+2022-04-01 17:03:06,616 - Salesfoce User -DEBUG - User is able to click Case with Origin as Phone
+2022-04-01 17:03:06,757 - Salesfoce User -DEBUG - User is able to click Edit Button
+2022-04-01 17:03:15,284 - Salesfoce User -DEBUG - User is able to click Case Subject
+2022-04-01 17:03:15,335 - Salesfoce User -DEBUG - Clearing the Case Subject text box
+2022-04-01 17:03:15,444 - Salesfoce User -DEBUG - User is able to click Save Button
+2022-04-01 17:03:16,574 - Salesfoce User -DEBUG - Success Message is displayed
+2022-04-01 17:03:16,814 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-04-01 17:03:16,814 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-04-01 17:03:16,814 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-04-01 17:03:16,814 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-04-01 17:03:16,814 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-04-01 17:03:58,650 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-01 17:03:58,800 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-01 17:03:58,885 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-01 17:03:59,179 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-01 17:04:12,098 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-01 17:04:15,296 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-04-01 17:04:16,625 - Salesfoce User -DEBUG - User is able to enter Service Cloud in Search field
+2022-04-01 17:04:16,769 - Salesfoce User -DEBUG - User is able to click Service Cloud
+2022-04-01 17:04:20,209 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-04-01 17:04:21,297 - Salesfoce User -DEBUG - User is able to enter Cases in Search field
+2022-04-01 17:04:21,502 - Salesfoce User -DEBUG - User is able to click Cases
+2022-04-01 17:04:21,738 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-04-01 17:04:21,870 - Salesfoce User -DEBUG - User is able to click New Case
+2022-04-01 17:04:23,928 - Salesfoce User -DEBUG - User is able to click Case Origin
+2022-04-01 17:04:24,628 - Salesfoce User -DEBUG - User is able to click Phone
+2022-04-01 17:04:24,795 - Salesfoce User -DEBUG - User is able to enter Password Request in Subject field
+2022-04-01 17:04:24,934 - Salesfoce User -DEBUG - User is able to click Save Button
+2022-04-01 17:04:27,164 - Salesfoce User -DEBUG - Success Message is displayed
+2022-04-01 17:04:27,234 - Salesfoce User -DEBUG - Actual value of Case Origin is same as expected value
+2022-04-01 17:04:27,477 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-04-01 17:04:27,492 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-04-01 17:04:27,492 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-04-01 17:04:27,492 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-04-01 17:04:27,492 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-04-01 17:07:09,714 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-01 17:07:09,866 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-01 17:07:09,951 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-01 17:07:18,706 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-01 17:07:28,746 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-01 17:07:32,140 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-04-01 17:07:33,428 - Salesfoce User -DEBUG - User is able to enter Service Cloud in Search field
+2022-04-01 17:07:33,635 - Salesfoce User -DEBUG - User is able to click Service Cloud
+2022-04-01 17:07:37,212 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-04-01 17:07:38,484 - Salesfoce User -DEBUG - User is able to enter Cases in Search field
+2022-04-01 17:07:39,132 - Salesfoce User -DEBUG - User is able to click Cases
+2022-04-01 17:08:53,768 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-04-01 17:08:53,784 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-04-01 17:08:53,784 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-04-01 17:08:53,784 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-04-01 17:08:53,784 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-04-01 17:10:17,694 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-01 17:10:17,840 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-01 17:10:18,039 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-01 17:10:18,211 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-01 17:10:36,325 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-01 17:10:39,538 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-04-01 17:10:40,793 - Salesfoce User -DEBUG - User is able to enter Service Cloud in Search field
+2022-04-01 17:10:40,927 - Salesfoce User -DEBUG - User is able to click Service Cloud
+2022-04-01 17:10:44,266 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-04-01 17:10:45,519 - Salesfoce User -DEBUG - User is able to enter Cases in Search field
+2022-04-01 17:10:45,742 - Salesfoce User -DEBUG - User is able to click Cases
+2022-04-01 17:12:08,901 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-01 17:12:09,051 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-01 17:12:09,192 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-01 17:12:18,452 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-01 17:12:28,474 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-01 17:12:31,712 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-04-01 17:12:32,997 - Salesfoce User -DEBUG - User is able to enter Service Cloud in Search field
+2022-04-01 17:12:33,233 - Salesfoce User -DEBUG - User is able to click Service Cloud
+2022-04-01 17:12:36,603 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-04-01 17:12:37,534 - Salesfoce User -DEBUG - User is able to enter Cases in Search field
+2022-04-01 17:12:37,756 - Salesfoce User -DEBUG - User is able to click Cases
+2022-04-01 17:12:37,967 - Salesfoce User -DEBUG - User is able to click Case Number
+2022-04-01 17:12:38,160 - Salesfoce User -DEBUG - User is able to click Delete
+2022-04-01 17:12:38,858 - Salesfoce User -DEBUG - User is able to click Confirm Delete
+2022-04-01 17:12:40,010 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-04-01 17:12:40,010 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-04-01 17:12:40,025 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-04-01 17:12:40,025 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-04-01 17:12:40,025 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-04-01 17:19:22,639 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-01 17:19:22,793 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-01 17:19:22,886 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-01 17:19:23,114 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-01 17:19:36,161 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-01 17:19:39,307 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-04-01 17:19:40,603 - Salesfoce User -DEBUG - User is able to enter Service Cloud in Search field
+2022-04-01 17:19:40,738 - Salesfoce User -DEBUG - User is able to click Service Cloud
+2022-04-01 17:19:44,139 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-04-01 17:19:45,160 - Salesfoce User -DEBUG - User is able to enter Cases in Search field
+2022-04-01 17:19:45,309 - Salesfoce User -DEBUG - User is able to click Cases
+2022-04-01 17:19:46,061 - Salesfoce User -DEBUG - User is able to click Case Number
+2022-04-01 17:19:47,059 - Salesfoce User -DEBUG - User is able to click Delete
+2022-04-01 17:19:47,255 - Salesfoce User -DEBUG - User is able to click Confirm Delete
+2022-04-01 17:19:48,657 - Salesfoce User -DEBUG - Case Cannot Be Deleted! is displayed
+2022-04-01 17:19:48,923 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-04-01 17:19:48,927 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-04-01 17:19:48,927 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-04-01 17:19:48,927 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-04-01 17:19:48,927 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-04-01 17:21:52,523 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-01 17:21:52,668 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-01 17:21:52,766 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-01 17:21:55,695 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-01 17:23:35,358 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-01 17:23:35,512 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-01 17:23:35,611 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-01 17:23:35,848 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-01 17:23:48,818 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-01 17:23:51,985 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-04-01 17:23:53,120 - Salesfoce User -DEBUG - User is able to enter Service Cloud in Search field
+2022-04-01 17:23:53,256 - Salesfoce User -DEBUG - User is able to click Service Cloud
+2022-04-01 17:23:56,560 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-04-01 17:23:57,414 - Salesfoce User -DEBUG - User is able to enter Cases in Search field
+2022-04-01 17:23:57,607 - Salesfoce User -DEBUG - User is able to click Cases
+2022-04-01 17:23:58,274 - Salesfoce User -DEBUG - User is able to click Case Number
+2022-04-01 17:23:59,712 - Salesfoce User -DEBUG - User is able to click Delete
+2022-04-01 17:24:00,396 - Salesfoce User -DEBUG - User is able to click Confirm Delete
+2022-04-01 17:24:01,820 - Salesfoce User -DEBUG - Case Cannot Be Deleted! is displayed
+2022-04-01 17:24:02,054 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-04-01 17:24:02,054 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-04-01 17:24:02,054 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-04-01 17:24:02,054 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-04-01 17:24:02,054 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-04-01 17:24:10,484 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-01 17:24:10,636 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-01 17:24:10,732 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-01 17:24:11,039 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-01 17:24:30,112 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-01 17:24:33,279 - Salesfoce User -DEBUG - User is able to click App Launcher
+2022-04-01 17:24:34,479 - Salesfoce User -DEBUG - User is able to enter Service Cloud in Search field
+2022-04-01 17:24:34,631 - Salesfoce User -DEBUG - User is able to click Service Cloud
+2022-04-01 17:28:48,742 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-01 17:28:48,896 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-01 17:28:49,000 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-01 17:28:52,312 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-01 17:29:07,141 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-01 17:29:07,375 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-04-01 17:29:07,601 - Salesfoce User -DEBUG - User is able to click New Case
+2022-04-01 17:29:08,859 - Salesfoce User -DEBUG - User is able to click Case Origin
+2022-04-01 17:29:09,553 - Salesfoce User -DEBUG - User is able to click Phone
+2022-04-01 17:29:09,706 - Salesfoce User -DEBUG - User is able to enter Password Request in Subject field
+2022-04-01 17:29:09,829 - Salesfoce User -DEBUG - User is able to click Save Button
+2022-04-01 17:29:10,787 - Salesfoce User -DEBUG - Success Message is displayed
+2022-04-01 17:29:10,850 - Salesfoce User -DEBUG - Actual value of Case Origin is same as expected value: Phone
+2022-04-01 17:29:11,069 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-04-01 17:29:11,071 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-04-01 17:29:11,071 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-04-01 17:29:11,071 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-04-01 17:29:11,071 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-04-01 17:29:14,669 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-01 17:29:14,805 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-01 17:29:14,890 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-01 17:29:24,084 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-01 17:29:34,148 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-01 17:29:34,347 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-04-01 17:29:34,482 - Salesfoce User -DEBUG - User is able to click Case List view Drop Down
+2022-04-01 17:29:35,220 - Salesfoce User -DEBUG - User is able to click Case with origin List View
+2022-04-01 17:31:40,714 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-04-01 17:31:40,715 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-04-01 17:31:40,715 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-04-01 17:31:40,716 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-04-01 17:31:40,716 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-04-01 17:31:43,860 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-01 17:31:43,988 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-01 17:31:44,072 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-01 17:31:52,102 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-01 17:32:02,130 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-01 17:32:02,572 - Salesfoce User -DEBUG - User is able to click Case Number
+2022-04-01 17:33:07,119 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-04-01 17:33:07,120 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-04-01 17:33:07,121 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-04-01 17:33:07,121 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-04-01 17:33:07,121 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-04-01 17:36:26,308 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-01 17:36:26,500 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-01 17:36:26,599 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-01 17:36:29,810 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-01 17:36:45,049 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-01 17:36:45,301 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-04-01 17:36:45,456 - Salesfoce User -DEBUG - User is able to click Case List view Drop Down
+2022-04-01 17:36:46,109 - Salesfoce User -DEBUG - User is able to click Case with origin List View
+2022-04-01 17:36:46,515 - Salesfoce User -DEBUG - User is able to click Case with Origin as Phone
+2022-04-01 17:36:48,143 - Salesfoce User -DEBUG - User is able to click Edit Button
+2022-04-01 17:36:48,941 - Salesfoce User -DEBUG - User is able to click Case Subject
+2022-04-01 17:36:49,021 - Salesfoce User -DEBUG - Clearing the Case Subject text box
+2022-04-01 17:36:49,164 - Salesfoce User -DEBUG - User is able to click Save Button
+2022-04-01 17:36:50,338 - Salesfoce User -DEBUG - Success Message is displayed
+2022-04-01 17:36:50,588 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-04-01 17:36:50,588 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-04-01 17:36:50,604 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-04-01 17:36:50,604 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-04-01 17:36:50,604 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-04-01 17:37:04,910 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-01 17:37:05,065 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-01 17:37:05,143 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-01 17:37:14,027 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-01 17:37:24,056 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-01 17:37:24,305 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-04-01 17:37:24,504 - Salesfoce User -DEBUG - User is able to click Case Number
+2022-04-01 17:37:24,664 - Salesfoce User -DEBUG - User is able to click Delete
+2022-04-01 17:37:25,355 - Salesfoce User -DEBUG - User is able to click Confirm Delete
+2022-04-01 17:37:26,782 - Salesfoce User -DEBUG - Case Cannot Be Deleted! is displayed
+2022-04-01 17:37:27,023 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-04-01 17:37:27,024 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-04-01 17:37:27,026 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-04-01 17:37:27,026 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-04-01 17:37:27,026 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-04-01 17:50:32,874 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-01 17:50:32,879 - Salesfoce User -DEBUG - Actual value of URL is same as expected value: https://customization-customiza-1a0-dev-ed.cs10.my.salesforce.com/
+2022-04-01 17:50:33,032 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-01 17:50:33,146 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-01 17:50:33,406 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-01 17:50:51,976 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-01 17:50:52,251 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-04-01 17:50:52,433 - Salesfoce User -DEBUG - User is able to click Case Number
+2022-04-01 17:50:52,596 - Salesfoce User -DEBUG - User is able to click Delete
+2022-04-01 17:50:53,285 - Salesfoce User -DEBUG - User is able to click Confirm Delete
+2022-04-01 17:50:54,067 - Salesfoce User -DEBUG - Case Cannot Be Deleted! is displayed
+2022-04-01 17:50:54,266 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-04-01 17:50:54,266 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-04-01 17:50:54,281 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-04-01 17:50:54,281 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-04-01 17:50:54,281 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-04-01 17:52:39,848 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-01 17:52:39,852 - Salesfoce User -DEBUG - Actual value of URL is same as expected value: https://customization-customiza-1a0-dev-ed.cs10.my.salesforce.com/
+2022-04-01 17:52:40,014 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-01 17:52:40,232 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-01 17:52:48,753 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-01 17:52:58,753 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-01 17:52:59,005 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-04-01 17:52:59,225 - Salesfoce User -DEBUG - User is able to click New Case
+2022-04-01 17:53:00,599 - Salesfoce User -DEBUG - User is able to click Case Origin
+2022-04-01 17:53:32,381 - Salesfoce User -DEBUG - User is able to enter Password Request in Subject field
+2022-04-01 17:53:32,624 - Salesfoce User -DEBUG - User is able to click Save Button
+2022-04-01 17:54:14,635 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-04-01 17:54:14,642 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-04-01 17:54:14,642 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-04-01 17:54:14,642 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-04-01 17:54:14,642 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-04-01 18:14:24,702 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-01 18:14:24,702 - Salesfoce User -DEBUG - Actual value of URL is same as expected value: https://customization-customiza-1a0-dev-ed.cs10.my.salesforce.com/
+2022-04-01 18:14:24,883 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-01 18:14:25,012 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-01 18:14:38,904 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-01 18:14:48,954 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-01 18:14:49,214 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-04-01 18:14:49,458 - Salesfoce User -DEBUG - User is able to click New Case
+2022-04-01 18:14:51,047 - Salesfoce User -DEBUG - User is able to click Case Origin
+2022-04-01 18:14:51,192 - Salesfoce User -DEBUG - User is able to click Phone
+2022-04-01 18:14:51,373 - Salesfoce User -DEBUG - User is able to enter Password Request in Subject field
+2022-04-01 18:14:51,501 - Salesfoce User -DEBUG - User is able to click Save Button
+2022-04-01 18:14:52,448 - Salesfoce User -DEBUG - Success Message is displayed
+2022-04-01 18:14:52,508 - Salesfoce User -DEBUG - Actual value of Case Origin is same as expected value: Phone
+2022-04-01 18:14:52,728 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-04-01 18:14:52,743 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-04-01 18:14:52,743 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-04-01 18:14:52,743 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-04-01 18:14:52,743 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-04-01 18:15:00,088 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-01 18:15:00,088 - Salesfoce User -DEBUG - Actual value of URL is same as expected value: https://customization-customiza-1a0-dev-ed.cs10.my.salesforce.com/
+2022-04-01 18:15:00,200 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-01 18:15:00,312 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-01 18:15:00,424 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-01 18:15:23,956 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-01 18:15:24,205 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-04-01 18:15:24,351 - Salesfoce User -DEBUG - User is able to click Case List view Drop Down
+2022-04-01 18:15:24,954 - Salesfoce User -DEBUG - User is able to click Case with origin List View
+2022-04-01 18:15:25,588 - Salesfoce User -DEBUG - User is able to click Case with Origin as Phone
+2022-04-01 18:15:25,813 - Salesfoce User -DEBUG - User is able to click Edit Button
+2022-04-01 18:15:26,607 - Salesfoce User -DEBUG - User is able to click Case Subject
+2022-04-01 18:15:26,680 - Salesfoce User -DEBUG - Clearing the Case Subject text box
+2022-04-01 18:15:26,819 - Salesfoce User -DEBUG - User is able to click Save Button
+2022-04-01 18:15:27,943 - Salesfoce User -DEBUG - Success Message is displayed
+2022-04-01 18:15:28,129 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-04-01 18:15:28,129 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-04-01 18:15:28,129 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-04-01 18:15:28,129 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-04-01 18:15:28,129 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-04-01 18:15:31,892 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-01 18:15:31,892 - Salesfoce User -DEBUG - Actual value of URL is same as expected value: https://customization-customiza-1a0-dev-ed.cs10.my.salesforce.com/
+2022-04-01 18:15:32,008 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-01 18:15:32,095 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-01 18:15:46,633 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-01 18:15:56,637 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-01 18:15:56,883 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-04-01 18:15:57,101 - Salesfoce User -DEBUG - User is able to click Case Number
+2022-04-01 18:15:58,220 - Salesfoce User -DEBUG - User is able to click Delete
+2022-04-01 18:15:58,865 - Salesfoce User -DEBUG - User is able to click Confirm Delete
+2022-04-01 18:15:59,728 - Salesfoce User -DEBUG - Case Cannot Be Deleted! is displayed
+2022-04-01 18:15:59,874 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-04-01 18:15:59,874 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-04-01 18:15:59,874 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-04-01 18:15:59,874 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-04-01 18:15:59,874 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-04-02 11:59:17,029 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-02 11:59:17,034 - Salesfoce User -DEBUG - Actual value of URL is same as expected value: https://customization-customiza-1a0-dev-ed.cs10.my.salesforce.com/
+2022-04-02 11:59:17,196 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-02 11:59:17,298 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-02 11:59:17,571 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-02 11:59:30,956 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-02 11:59:31,154 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-04-02 11:59:31,415 - Salesfoce User -DEBUG - User is able to click New Case
+2022-04-02 11:59:33,831 - Salesfoce User -DEBUG - User is able to click Case Origin
+2022-04-02 12:00:05,498 - Salesfoce User -DEBUG - User is able to enter Password Request in Subject field
+2022-04-02 12:00:05,663 - Salesfoce User -DEBUG - User is able to click Save Button
+2022-04-02 12:00:47,933 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-04-02 12:00:47,934 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-04-02 12:00:47,936 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-04-02 12:00:47,936 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-04-02 12:00:47,937 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-04-02 12:17:37,055 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-02 12:17:37,059 - Salesfoce User -DEBUG - Actual value of URL is same as expected value: https://customization-customiza-1a0-dev-ed.cs10.my.salesforce.com/
+2022-04-02 12:17:37,214 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-02 12:17:37,401 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-02 12:17:37,547 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-02 12:17:50,525 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-02 12:17:50,715 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-04-02 12:17:50,866 - Salesfoce User -DEBUG - User is able to click New Case
+2022-04-02 12:17:52,507 - Salesfoce User -DEBUG - User is able to click Case Origin
+2022-04-02 12:17:53,141 - Salesfoce User -DEBUG - User is able to click Phone
+2022-04-02 12:17:53,282 - Salesfoce User -DEBUG - User is able to enter Password Request in Subject field
+2022-04-02 12:17:53,377 - Salesfoce User -DEBUG - User is able to click Save Button
+2022-04-02 12:17:55,702 - Salesfoce User -DEBUG - Success Message is displayed
+2022-04-02 12:17:55,759 - Salesfoce User -DEBUG - Actual value of Case Origin is same as expected value: Phone
+2022-04-02 12:20:29,262 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-02 12:20:29,267 - Salesfoce User -DEBUG - Actual value of URL is same as expected value: https://customization-customiza-1a0-dev-ed.cs10.my.salesforce.com/
+2022-04-02 12:20:29,412 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-02 12:20:29,515 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-02 12:20:29,832 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-02 12:20:42,988 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-02 12:20:43,190 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-04-02 12:20:43,304 - Salesfoce User -DEBUG - User is able to click New Case
+2022-04-02 12:20:45,505 - Salesfoce User -DEBUG - User is able to click Case Origin
+2022-04-02 12:20:46,230 - Salesfoce User -DEBUG - User is able to click Phone
+2022-04-02 12:20:46,409 - Salesfoce User -DEBUG - User is able to enter Password Request in Subject field
+2022-04-02 12:20:46,562 - Salesfoce User -DEBUG - User is able to click Save Button
+2022-04-02 12:20:47,570 - Salesfoce User -DEBUG - Success Message is displayed
+2022-04-02 12:20:47,639 - Salesfoce User -DEBUG - Actual value of Case Origin is same as expected value: Phone
+2022-04-02 12:20:47,920 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-04-02 12:20:47,920 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-04-02 12:20:47,920 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-04-02 12:20:47,920 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-04-02 12:20:47,920 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-04-02 14:31:50,650 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-02 14:31:50,655 - Salesfoce User -DEBUG - Actual value of URL is same as expected value: https://customization-customiza-1a0-dev-ed.cs10.my.salesforce.com/
+2022-04-02 14:31:50,814 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-02 14:31:50,910 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-02 14:31:54,515 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-02 14:32:23,338 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-02 14:32:23,343 - Salesfoce User -DEBUG - Actual value of URL is same as expected value: https://customization-customiza-1a0-dev-ed.cs10.my.salesforce.com/
+2022-04-02 14:32:23,505 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-02 14:32:23,590 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-02 14:32:23,692 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-02 14:32:36,763 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-02 14:32:36,981 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-04-02 14:32:37,137 - Salesfoce User -DEBUG - User is able to click New Case
+2022-04-02 14:32:38,882 - Salesfoce User -DEBUG - User is able to click Case Origin
+2022-04-02 14:32:39,548 - Salesfoce User -DEBUG - User is able to click Phone
+2022-04-02 14:32:39,722 - Salesfoce User -DEBUG - User is able to enter Password Request in Subject field
+2022-04-02 14:32:39,850 - Salesfoce User -DEBUG - User is able to click Save Button
+2022-04-02 14:32:40,888 - Salesfoce User -DEBUG - Success Message is displayed
+2022-04-02 14:32:40,956 - Salesfoce User -DEBUG - Actual value of Case Origin is same as expected value: Phone
+2022-04-02 14:32:41,235 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-04-02 14:32:41,235 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-04-02 14:32:41,235 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-04-02 14:32:41,235 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-04-02 14:32:41,235 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-04-02 14:36:11,515 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-02 14:36:11,523 - Salesfoce User -DEBUG - Actual value of URL is same as expected value: https://customization-customiza-1a0-dev-ed.cs10.my.salesforce.com/
+2022-04-02 14:36:11,658 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-02 14:36:11,767 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-02 14:36:11,979 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-02 14:36:25,783 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-02 14:36:25,986 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-04-02 14:36:26,229 - Salesfoce User -DEBUG - User is able to click New Case
+2022-04-02 14:36:28,314 - Salesfoce User -DEBUG - User is able to click Case Origin
+2022-04-02 14:36:28,988 - Salesfoce User -DEBUG - User is able to click Phone
+2022-04-02 14:36:29,156 - Salesfoce User -DEBUG - User is able to enter Password Request in Subject field
+2022-04-02 14:36:29,281 - Salesfoce User -DEBUG - User is able to click Save Button
+2022-04-02 14:36:30,224 - Salesfoce User -DEBUG - Success Message is displayed
+2022-04-02 14:36:30,290 - Salesfoce User -DEBUG - Actual value of Case Origin is same as expected value: Phone
+2022-04-02 14:36:30,498 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-04-02 14:36:30,498 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-04-02 14:36:30,498 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-04-02 14:36:30,498 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-04-02 14:36:30,498 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-04-02 14:56:43,928 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-02 14:56:43,934 - Salesfoce User -DEBUG - Actual value of URL is same as expected value: https://customization-customiza-1a0-dev-ed.cs10.my.salesforce.com/
+2022-04-02 14:56:44,106 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-02 14:56:44,381 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-02 14:56:54,401 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-02 14:57:04,458 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-02 14:57:04,972 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-04-02 14:57:05,392 - Salesfoce User -DEBUG - User is able to click New Case
+2022-04-02 14:57:07,431 - Salesfoce User -DEBUG - User is able to click Case Origin
+2022-04-02 14:57:07,698 - Salesfoce User -DEBUG - User is able to click Phone
+2022-04-02 14:57:07,962 - Salesfoce User -DEBUG - User is able to enter Password Request in Subject field
+2022-04-02 14:57:08,139 - Salesfoce User -DEBUG - User is able to click Save Button
+2022-04-02 14:57:09,180 - Salesfoce User -DEBUG - Success Message is displayed
+2022-04-02 14:57:09,267 - Salesfoce User -DEBUG - Actual value of Case Origin is same as expected value: Phone
+2022-04-02 15:15:09,060 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-02 15:15:09,068 - Salesfoce User -DEBUG - Actual value of URL is same as expected value: https://customization-customiza-1a0-dev-ed.cs10.my.salesforce.com/
+2022-04-02 15:15:09,319 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-02 15:15:09,465 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-02 15:15:18,468 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-02 15:15:28,532 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-02 15:15:29,116 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-04-02 15:15:29,544 - Salesfoce User -DEBUG - User is able to click New Case
+2022-04-02 15:15:32,091 - Salesfoce User -DEBUG - User is able to click Case Origin
+2022-04-02 15:15:32,377 - Salesfoce User -DEBUG - User is able to click Phone
+2022-04-02 15:15:32,649 - Salesfoce User -DEBUG - User is able to enter Password Request in Subject field
+2022-04-02 15:15:32,835 - Salesfoce User -DEBUG - User is able to click Save Button
+2022-04-02 15:15:33,915 - Salesfoce User -DEBUG - Success Message is displayed
+2022-04-02 15:15:33,983 - Salesfoce User -DEBUG - Actual value of Case Origin is same as expected value: Phone
+2022-04-02 15:15:34,289 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-04-02 15:15:34,292 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-04-02 15:15:34,295 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-04-02 15:15:34,296 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-04-02 15:15:34,297 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-04-02 15:30:26,781 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-02 15:30:26,787 - Salesfoce User -DEBUG - Actual value of URL is same as expected value: https://customization-customiza-1a0-dev-ed.cs10.my.salesforce.com/
+2022-04-02 15:30:26,980 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-02 15:30:27,348 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-02 15:30:27,598 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-02 15:31:06,332 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-02 15:31:06,339 - Salesfoce User -DEBUG - Actual value of URL is same as expected value: https://customization-customiza-1a0-dev-ed.cs10.my.salesforce.com/
+2022-04-02 15:31:06,541 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-02 15:31:06,691 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-02 15:31:07,053 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-02 15:34:46,181 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-02 15:34:46,189 - Salesfoce User -DEBUG - Actual value of URL is same as expected value: https://customization-customiza-1a0-dev-ed.cs10.my.salesforce.com/
+2022-04-02 15:34:46,405 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-02 15:34:46,807 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-02 15:34:55,780 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-02 15:35:05,796 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-02 15:35:06,105 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-04-02 15:35:06,425 - Salesfoce User -DEBUG - User is able to click New Case
+2022-04-02 15:35:08,148 - Salesfoce User -DEBUG - User is able to click Case Origin
+2022-04-02 15:35:08,931 - Salesfoce User -DEBUG - User is able to click Phone
+2022-04-02 15:35:09,159 - Salesfoce User -DEBUG - User is able to enter Password Request in Subject field
+2022-04-02 15:35:09,291 - Salesfoce User -DEBUG - User is able to click Save Button
+2022-04-02 15:35:10,301 - Salesfoce User -DEBUG - Success Message is displayed
+2022-04-02 15:35:10,378 - Salesfoce User -DEBUG - Actual value of Case Origin is same as expected value: Phone
+2022-04-02 15:35:10,639 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-04-02 15:35:10,641 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-04-02 15:35:10,641 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-04-02 15:35:10,641 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-04-02 15:35:10,650 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-04-02 15:38:33,976 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-02 15:38:33,984 - Salesfoce User -DEBUG - Actual value of URL is same as expected value: https://customization-customiza-1a0-dev-ed.cs10.my.salesforce.com/
+2022-04-02 15:38:34,175 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-02 15:38:34,464 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-02 15:38:34,765 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-02 15:38:52,759 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-02 15:38:53,078 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-04-02 15:38:53,486 - Salesfoce User -DEBUG - User is able to click New Case
+2022-04-02 15:38:54,880 - Salesfoce User -DEBUG - User is able to click Case Origin
+2022-04-02 15:38:55,094 - Salesfoce User -DEBUG - User is able to click Phone
+2022-04-02 15:38:55,360 - Salesfoce User -DEBUG - User is able to enter Password Request in Subject field
+2022-04-02 15:38:55,507 - Salesfoce User -DEBUG - User is able to click Save Button
+2022-04-02 15:38:56,493 - Salesfoce User -DEBUG - Success Message is displayed
+2022-04-02 15:38:56,593 - Salesfoce User -DEBUG - Actual value of Case Origin is same as expected value: Phone
+2022-04-02 15:38:56,901 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-04-02 15:38:56,915 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-04-02 15:38:56,915 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-04-02 15:38:56,915 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-04-02 15:38:56,915 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-04-02 15:45:01,932 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-02 15:45:01,939 - Salesfoce User -DEBUG - Actual value of URL is same as expected value: https://customization-customiza-1a0-dev-ed.cs10.my.salesforce.com/
+2022-04-02 15:45:02,179 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-02 15:45:02,536 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-02 15:45:11,729 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-02 15:45:21,841 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-02 15:45:22,302 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-04-02 15:45:22,483 - Salesfoce User -DEBUG - User is able to click New Case
+2022-04-02 15:45:26,007 - Salesfoce User -DEBUG - User is able to click Case Origin
+2022-04-02 15:45:26,292 - Salesfoce User -DEBUG - User is able to click Phone
+2022-04-02 15:45:26,575 - Salesfoce User -DEBUG - User is able to enter Password Request in Subject field
+2022-04-02 15:45:26,738 - Salesfoce User -DEBUG - User is able to click Save Button
+2022-04-02 15:45:27,835 - Salesfoce User -DEBUG - Success Message is displayed
+2022-04-02 15:45:27,938 - Salesfoce User -DEBUG - Actual value of Case Origin is same as expected value: Phone
+2022-04-02 15:45:28,268 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-04-02 15:45:28,268 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-04-02 15:45:28,268 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-04-02 15:45:28,284 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-04-02 15:45:28,285 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-04-02 15:53:13,129 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-02 15:53:13,136 - Salesfoce User -DEBUG - Actual value of URL is same as expected value: https://customization-customiza-1a0-dev-ed.cs10.my.salesforce.com/
+2022-04-02 15:53:13,334 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-02 15:53:13,460 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-02 15:53:16,855 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-02 15:56:13,146 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-02 15:56:13,154 - Salesfoce User -DEBUG - Actual value of URL is same as expected value: https://customization-customiza-1a0-dev-ed.cs10.my.salesforce.com/
+2022-04-02 15:56:13,406 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-02 15:56:13,928 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-02 15:56:14,271 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-02 15:56:33,271 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-02 15:56:33,642 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-04-02 15:56:33,968 - Salesfoce User -DEBUG - User is able to click New Case
+2022-04-02 15:56:35,438 - Salesfoce User -DEBUG - User is able to click Case Origin
+2022-04-02 15:56:35,699 - Salesfoce User -DEBUG - User is able to click Phone
+2022-04-02 15:56:35,882 - Salesfoce User -DEBUG - User is able to enter Password Request in Subject field
+2022-04-02 15:56:36,024 - Salesfoce User -DEBUG - User is able to click Save Button
+2022-04-02 15:56:37,365 - Salesfoce User -DEBUG - Success Message is displayed
+2022-04-02 15:56:37,455 - Salesfoce User -DEBUG - Actual value of Case Origin is same as expected value: Phone
+2022-04-02 15:56:37,747 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-04-02 15:56:37,749 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-04-02 15:56:37,752 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-04-02 15:56:37,755 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-04-02 15:56:37,756 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-04-02 16:01:08,133 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-02 16:01:08,143 - Salesfoce User -DEBUG - Actual value of URL is same as expected value: https://customization-customiza-1a0-dev-ed.cs10.my.salesforce.com/
+2022-04-02 16:01:08,360 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-02 16:01:08,508 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-02 16:01:17,367 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-02 16:01:27,410 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-02 16:01:27,764 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-04-02 16:01:28,178 - Salesfoce User -DEBUG - User is able to click New Case
+2022-04-02 16:01:29,581 - Salesfoce User -DEBUG - User is able to click Case Origin
+2022-04-02 16:02:01,287 - Salesfoce User -DEBUG - User is able to enter Password Request in Subject field
+2022-04-02 16:02:01,512 - Salesfoce User -DEBUG - User is able to click Save Button
+2022-04-02 16:02:44,064 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-04-02 16:02:44,065 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-04-02 16:02:44,066 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-04-02 16:02:44,068 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-04-02 16:02:44,068 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-04-02 16:07:55,991 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-02 16:07:56,001 - Salesfoce User -DEBUG - Actual value of URL is same as expected value: https://customization-customiza-1a0-dev-ed.cs10.my.salesforce.com/
+2022-04-02 16:07:56,248 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-02 16:07:56,576 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-02 16:07:56,848 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-02 16:08:15,109 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-02 16:08:15,346 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-04-02 16:08:15,536 - Salesfoce User -DEBUG - User is able to click New Case
+2022-04-02 16:08:17,936 - Salesfoce User -DEBUG - User is able to click Case Origin
+2022-04-02 16:08:49,336 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-04-02 16:08:49,336 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-04-02 16:08:49,336 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-04-02 16:08:49,336 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-04-02 16:08:49,336 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-04-02 16:11:37,215 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-02 16:11:37,221 - Salesfoce User -DEBUG - Actual value of URL is same as expected value: https://customization-customiza-1a0-dev-ed.cs10.my.salesforce.com/
+2022-04-02 16:11:37,348 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-02 16:11:37,412 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-02 16:11:45,505 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-02 16:11:55,548 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-02 16:11:55,874 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-04-02 16:11:56,074 - Salesfoce User -DEBUG - User is able to click New Case
+2022-04-02 16:11:57,379 - Salesfoce User -DEBUG - User is able to click Case Origin
+2022-04-02 16:12:28,627 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-04-02 16:12:28,627 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-04-02 16:12:28,627 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-04-02 16:12:28,627 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-04-02 16:12:28,627 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-04-02 16:12:31,938 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-02 16:12:31,939 - Salesfoce User -DEBUG - Actual value of URL is same as expected value: https://customization-customiza-1a0-dev-ed.cs10.my.salesforce.com/
+2022-04-02 16:12:32,054 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-02 16:12:32,129 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-02 16:12:32,195 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-02 16:12:50,015 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-02 16:12:50,249 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-04-02 16:12:50,365 - Salesfoce User -DEBUG - User is able to click Case List view Drop Down
+2022-04-02 16:12:51,174 - Salesfoce User -DEBUG - User is able to click Case with origin List View
+2022-04-02 16:12:52,011 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-04-02 16:12:52,012 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-04-02 16:12:52,012 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-04-02 16:12:52,013 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-04-02 16:12:52,013 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-04-02 16:12:55,342 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-02 16:12:55,342 - Salesfoce User -DEBUG - Actual value of URL is same as expected value: https://customization-customiza-1a0-dev-ed.cs10.my.salesforce.com/
+2022-04-02 16:12:55,453 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-02 16:12:55,534 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-02 16:13:03,952 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-02 16:13:13,994 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-02 16:13:14,237 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-04-02 16:13:14,426 - Salesfoce User -DEBUG - User is able to click Case Number
+2022-04-02 16:13:15,918 - Salesfoce User -DEBUG - User is able to click Delete
+2022-04-02 16:13:16,592 - Salesfoce User -DEBUG - User is able to click Confirm Delete
+2022-04-02 16:13:17,900 - Salesfoce User -DEBUG - Case Cannot Be Deleted! is displayed
+2022-04-02 16:13:18,026 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-04-02 16:13:18,026 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-04-02 16:13:18,026 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-04-02 16:13:18,027 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-04-02 16:13:18,027 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-04-02 16:38:03,146 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-02 16:38:03,150 - Salesfoce User -DEBUG - Actual value of URL is same as expected value: https://customization-customiza-1a0-dev-ed.cs10.my.salesforce.com/
+2022-04-02 16:38:03,279 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-02 16:38:03,358 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-02 16:40:51,717 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-02 16:40:51,721 - Salesfoce User -DEBUG - Actual value of URL is same as expected value: https://customization-customiza-1a0-dev-ed.cs10.my.salesforce.com/
+2022-04-02 16:40:51,841 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-02 16:40:51,978 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-02 16:42:19,012 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-02 16:42:19,017 - Salesfoce User -DEBUG - Actual value of URL is same as expected value: https://customization-customiza-1a0-dev-ed.cs10.my.salesforce.com/
+2022-04-02 16:42:19,140 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-02 16:42:19,215 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-02 16:42:19,282 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-02 16:42:37,228 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-02 16:42:37,451 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-04-02 16:42:37,641 - Salesfoce User -DEBUG - User is able to click New Case
+2022-04-02 16:42:38,941 - Salesfoce User -DEBUG - User is able to click Case Origin
+2022-04-02 16:43:10,356 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-04-02 16:43:10,357 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-04-02 16:43:10,358 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-04-02 16:43:10,360 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-04-02 16:43:10,360 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-04-02 16:43:13,639 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-02 16:43:13,639 - Salesfoce User -DEBUG - Actual value of URL is same as expected value: https://customization-customiza-1a0-dev-ed.cs10.my.salesforce.com/
+2022-04-02 16:43:13,740 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-02 16:43:13,813 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-02 16:43:21,868 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-02 16:43:31,892 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-02 16:43:32,116 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-04-02 16:43:32,244 - Salesfoce User -DEBUG - User is able to click Case List view Drop Down
+2022-04-02 16:43:32,998 - Salesfoce User -DEBUG - User is able to click Case with origin List View
+2022-04-02 16:43:33,808 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-04-02 16:43:33,808 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-04-02 16:43:33,808 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-04-02 16:43:33,808 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-04-02 16:43:33,808 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-04-02 16:43:36,937 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-02 16:43:36,937 - Salesfoce User -DEBUG - Actual value of URL is same as expected value: https://customization-customiza-1a0-dev-ed.cs10.my.salesforce.com/
+2022-04-02 16:43:37,030 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-02 16:43:37,097 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-02 16:43:45,054 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-02 16:43:55,113 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-02 16:43:55,328 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-04-02 16:43:55,505 - Salesfoce User -DEBUG - User is able to click Case Number
+2022-04-02 16:43:56,534 - Salesfoce User -DEBUG - User is able to click Delete
+2022-04-02 16:43:57,187 - Salesfoce User -DEBUG - User is able to click Confirm Delete
+2022-04-02 16:43:58,613 - Salesfoce User -DEBUG - Case Cannot Be Deleted! is displayed
+2022-04-02 16:43:58,754 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-04-02 16:43:58,754 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-04-02 16:43:58,754 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-04-02 16:43:58,754 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-04-02 16:43:58,754 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-04-02 16:55:58,852 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-02 16:55:58,856 - Salesfoce User -DEBUG - Actual value of URL is same as expected value: https://customization-customiza-1a0-dev-ed.cs10.my.salesforce.com/
+2022-04-02 16:55:58,962 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-02 16:55:59,022 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-02 17:00:18,328 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-02 17:00:18,330 - Salesfoce User -DEBUG - Actual value of URL is same as expected value: https://customization-customiza-1a0-dev-ed.cs10.my.salesforce.com/
+2022-04-02 17:00:18,416 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-02 17:00:18,483 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-02 17:00:26,872 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-02 18:00:45,557 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-04-02 18:00:45,561 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-04-02 18:00:45,562 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-04-02 18:00:45,563 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-04-02 18:00:45,564 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-04-02 18:01:55,033 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-02 18:01:55,038 - Salesfoce User -DEBUG - Actual value of URL is same as expected value: https://customization-customiza-1a0-dev-ed.cs10.my.salesforce.com/
+2022-04-02 18:01:55,192 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-04-02 18:01:55,194 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-04-02 18:01:55,195 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-04-02 18:01:55,196 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-04-02 18:01:55,196 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-04-02 18:05:26,212 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-02 18:05:26,217 - Salesfoce User -DEBUG - Actual value of URL is same as expected value: https://customization-customiza-1a0-dev-ed.cs10.my.salesforce.com/
+2022-04-02 18:05:26,380 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-02 18:05:26,576 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-02 18:05:34,898 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-02 18:05:44,982 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-02 18:05:45,310 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-04-02 18:05:45,577 - Salesfoce User -DEBUG - User is able to click New Case
+2022-04-02 18:05:47,825 - Salesfoce User -DEBUG - User is able to click Case Origin
+2022-04-02 18:05:48,027 - Salesfoce User -DEBUG - User is able to click Phone
+2022-04-02 18:05:48,213 - Salesfoce User -DEBUG - User is able to enter Password Request in Subject field
+2022-04-02 18:05:48,362 - Salesfoce User -DEBUG - User is able to click Save Button
+2022-04-02 18:05:49,841 - Salesfoce User -DEBUG - Success Message is displayed
+2022-04-02 18:05:49,898 - Salesfoce User -DEBUG - Actual value of Case Origin is same as expected value: Phone
+2022-04-02 18:05:50,155 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-04-02 18:05:50,155 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-04-02 18:05:50,171 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-04-02 18:05:50,171 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-04-02 18:05:50,171 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-04-02 18:07:35,455 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-02 18:07:35,461 - Salesfoce User -DEBUG - Actual value of URL is same as expected value: https://customization-customiza-1a0-dev-ed.cs10.my.salesforce.com/
+2022-04-02 18:07:35,634 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-02 18:07:35,852 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-02 18:07:44,012 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-02 18:07:54,060 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-02 18:07:54,364 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-04-02 18:07:54,643 - Salesfoce User -DEBUG - User is able to click New Case
+2022-04-02 18:07:56,741 - Salesfoce User -DEBUG - User is able to click Case Origin
+2022-04-02 18:07:56,936 - Salesfoce User -DEBUG - User is able to click Phone
+2022-04-02 18:07:57,097 - Salesfoce User -DEBUG - User is able to enter Password Request in Subject field
+2022-04-02 18:07:57,246 - Salesfoce User -DEBUG - User is able to click Save Button
+2022-04-02 18:07:58,780 - Salesfoce User -DEBUG - Success Message is displayed
+2022-04-02 18:07:58,843 - Salesfoce User -DEBUG - Actual value of Case Origin is same as expected value: Phone
+2022-04-02 18:07:59,140 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-04-02 18:07:59,140 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-04-02 18:07:59,156 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-04-02 18:07:59,158 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-04-02 18:07:59,158 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-04-02 18:08:02,572 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-02 18:08:02,577 - Salesfoce User -DEBUG - Actual value of URL is same as expected value: https://customization-customiza-1a0-dev-ed.cs10.my.salesforce.com/
+2022-04-02 18:08:02,725 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-02 18:08:02,826 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-02 18:08:11,064 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-02 18:08:21,074 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-02 18:08:21,342 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-04-02 18:08:21,526 - Salesfoce User -DEBUG - User is able to click Case List view Drop Down
+2022-04-02 18:08:22,371 - Salesfoce User -DEBUG - User is able to click Case with origin List View
+2022-04-02 18:08:23,715 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-04-02 18:08:23,718 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-04-02 18:08:23,718 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-04-02 18:08:23,719 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-04-02 18:08:23,719 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-04-02 18:08:26,983 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-02 18:08:26,986 - Salesfoce User -DEBUG - Actual value of URL is same as expected value: https://customization-customiza-1a0-dev-ed.cs10.my.salesforce.com/
+2022-04-02 18:08:27,125 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-02 18:08:27,272 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-02 18:08:36,754 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-02 18:08:46,812 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-02 18:08:47,141 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-04-02 18:08:47,376 - Salesfoce User -DEBUG - User is able to click Case Number
+2022-04-02 18:08:48,472 - Salesfoce User -DEBUG - User is able to click Delete
+2022-04-02 18:08:48,657 - Salesfoce User -DEBUG - User is able to click Confirm Delete
+2022-04-02 18:08:50,004 - Salesfoce User -DEBUG - Case Cannot Be Deleted! is displayed
+2022-04-02 18:08:50,283 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-04-02 18:08:50,283 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-04-02 18:08:50,285 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-04-02 18:08:50,285 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-04-02 18:08:50,285 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-04-02 18:29:38,788 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-02 18:29:38,794 - Salesfoce User -DEBUG - Actual value of URL is same as expected value: https://customization-customiza-1a0-dev-ed.cs10.my.salesforce.com/
+2022-04-02 18:29:38,964 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-02 18:29:39,105 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-02 18:29:47,126 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-02 18:29:57,181 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-02 18:29:57,514 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-04-02 18:29:57,691 - Salesfoce User -DEBUG - User is able to click Case List view Drop Down
+2022-04-02 18:29:58,587 - Salesfoce User -DEBUG - User is able to click Case with origin List View
+2022-04-02 18:29:59,926 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-04-02 18:29:59,926 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-04-02 18:29:59,931 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-04-02 18:29:59,931 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-04-02 18:29:59,931 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-04-02 18:34:34,151 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-02 18:34:34,156 - Salesfoce User -DEBUG - Actual value of URL is same as expected value: https://customization-customiza-1a0-dev-ed.cs10.my.salesforce.com/
+2022-04-02 18:34:34,287 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-02 18:34:34,392 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-02 18:34:34,501 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-02 18:34:52,565 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-02 18:34:53,049 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-04-02 18:34:53,232 - Salesfoce User -DEBUG - User is able to click Case List view Drop Down
+2022-04-02 18:34:53,896 - Salesfoce User -DEBUG - User is able to click Case with origin List View
+2022-04-02 18:34:56,172 - Salesfoce User -DEBUG - User is able to click Case with Origin as Phone
+2022-04-02 18:34:57,427 - Salesfoce User -DEBUG - User is able to click Edit Button
+2022-04-02 18:34:58,201 - Salesfoce User -DEBUG - User is able to click Case Subject
+2022-04-02 18:34:58,292 - Salesfoce User -DEBUG - Clearing the Case Subject text box
+2022-04-02 18:34:58,454 - Salesfoce User -DEBUG - User is able to click Save Button
+2022-04-02 18:34:59,174 - Salesfoce User -DEBUG - Success Message is displayed
+2022-04-02 18:34:59,588 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-04-02 18:34:59,588 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-04-02 18:34:59,595 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-04-02 18:34:59,595 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-04-02 18:34:59,595 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-04-02 18:48:15,196 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-02 18:48:15,201 - Salesfoce User -DEBUG - Actual value of URL is same as expected value: https://customization-customiza-1a0-dev-ed.cs10.my.salesforce.com/
+2022-04-02 18:48:15,343 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-02 18:48:15,438 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-02 18:48:18,648 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-02 18:48:33,733 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-02 18:48:33,996 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-04-02 18:48:34,177 - Salesfoce User -DEBUG - User is able to enter 00001030 in Search the Case 00001030 field
+2022-04-02 18:48:35,039 - Salesfoce User -DEBUG - User is able to click Case Number
+2022-04-02 18:48:36,165 - Salesfoce User -DEBUG - User is able to click Delete
+2022-04-02 18:48:36,369 - Salesfoce User -DEBUG - User is able to click Confirm Delete
+2022-04-02 18:48:37,745 - Salesfoce User -DEBUG - Case Cannot Be Deleted! is displayed
+2022-04-02 18:48:37,961 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-04-02 18:48:37,961 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-04-02 18:48:37,977 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-04-02 18:48:37,977 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-04-02 18:48:37,977 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-04-02 18:49:03,946 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-02 18:49:03,951 - Salesfoce User -DEBUG - Actual value of URL is same as expected value: https://customization-customiza-1a0-dev-ed.cs10.my.salesforce.com/
+2022-04-02 18:49:04,098 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-02 18:49:04,217 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-02 18:49:07,397 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-02 18:49:22,225 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-02 18:49:22,520 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-04-02 18:49:22,677 - Salesfoce User -DEBUG - User is able to enter 00001048 in Search the Case 00001048 field
+2022-04-02 18:49:23,592 - Salesfoce User -DEBUG - User is able to click Case Number
+2022-04-02 18:49:24,656 - Salesfoce User -DEBUG - User is able to click Delete
+2022-04-02 18:49:24,859 - Salesfoce User -DEBUG - User is able to click Confirm Delete
+2022-04-02 18:49:26,245 - Salesfoce User -DEBUG - Case Cannot Be Deleted! is displayed
+2022-04-02 18:49:26,468 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-04-02 18:49:26,468 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-04-02 18:49:26,484 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-04-02 18:49:26,484 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-04-02 18:49:26,484 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-04-02 18:50:09,126 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-02 18:50:09,131 - Salesfoce User -DEBUG - Actual value of URL is same as expected value: https://customization-customiza-1a0-dev-ed.cs10.my.salesforce.com/
+2022-04-02 18:50:09,299 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-02 18:50:09,408 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-02 18:50:12,676 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-02 18:50:27,196 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-02 18:50:27,471 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-04-02 18:50:27,734 - Salesfoce User -DEBUG - User is able to click New Case
+2022-04-02 18:50:29,091 - Salesfoce User -DEBUG - User is able to click Case Origin
+2022-04-02 18:50:29,263 - Salesfoce User -DEBUG - User is able to click Phone
+2022-04-02 18:50:29,449 - Salesfoce User -DEBUG - User is able to enter Password Request in Subject field
+2022-04-02 18:50:29,583 - Salesfoce User -DEBUG - User is able to click Save Button
+2022-04-02 18:50:30,491 - Salesfoce User -DEBUG - Success Message is displayed
+2022-04-02 18:50:30,553 - Salesfoce User -DEBUG - Actual value of Case Origin is same as expected value: Phone
+2022-04-02 18:50:30,783 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-04-02 18:50:30,792 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-04-02 18:50:30,792 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-04-02 18:50:30,792 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-04-02 18:50:30,792 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-04-02 18:50:34,510 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-02 18:50:34,511 - Salesfoce User -DEBUG - Actual value of URL is same as expected value: https://customization-customiza-1a0-dev-ed.cs10.my.salesforce.com/
+2022-04-02 18:50:34,650 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-02 18:50:34,766 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-02 18:50:35,055 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-02 18:50:47,995 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-02 18:50:48,223 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-04-02 18:50:48,434 - Salesfoce User -DEBUG - User is able to click Case List view Drop Down
+2022-04-02 18:50:49,073 - Salesfoce User -DEBUG - User is able to click Case with origin List View
+2022-04-02 18:50:51,309 - Salesfoce User -DEBUG - User is able to click Case with Origin as Phone
+2022-04-02 18:50:51,524 - Salesfoce User -DEBUG - User is able to click Edit Button
+2022-04-02 18:50:52,349 - Salesfoce User -DEBUG - User is able to click Case Subject
+2022-04-02 18:50:52,445 - Salesfoce User -DEBUG - Clearing the Case Subject text box
+2022-04-02 18:50:52,617 - Salesfoce User -DEBUG - User is able to click Save Button
+2022-04-02 18:50:53,263 - Salesfoce User -DEBUG - Success Message is displayed
+2022-04-02 18:50:53,528 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-04-02 18:50:53,528 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-04-02 18:50:53,528 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-04-02 18:50:53,528 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-04-02 18:50:53,528 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-04-02 18:50:56,881 - Salesfoce User -DEBUG - Opening Salesforce Sandbox
+2022-04-02 18:50:56,881 - Salesfoce User -DEBUG - Actual value of URL is same as expected value: https://customization-customiza-1a0-dev-ed.cs10.my.salesforce.com/
+2022-04-02 18:50:57,015 - Salesfoce User -DEBUG - User is able to enter guptaharshit1994-gmail.com@ta-candidate.cic.salesforce.com in Username field
+2022-04-02 18:50:57,108 - Salesfoce User -DEBUG - User is able to enter password in Password field
+2022-04-02 18:50:57,228 - Salesfoce User -DEBUG - User is able to click Login
+2022-04-02 18:51:10,118 - Salesfoce User -DEBUG - Login Error message is not present
+2022-04-02 18:51:10,376 - Salesfoce User -DEBUG - User is able to click Cases Tab
+2022-04-02 18:51:10,548 - Salesfoce User -DEBUG - User is able to enter 00001048 in Search the Case 00001048 field
+2022-04-02 18:51:11,577 - Salesfoce User -DEBUG - User is able to click Case Number
+2022-04-02 18:51:12,614 - Salesfoce User -DEBUG - User is able to click Delete
+2022-04-02 18:51:12,791 - Salesfoce User -DEBUG - User is able to click Confirm Delete
+2022-04-02 18:51:14,090 - Salesfoce User -DEBUG - Case Cannot Be Deleted! is displayed
+2022-04-02 18:51:14,259 - freemarker.cache -DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-04-02 18:51:14,259 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-04-02 18:51:14,259 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-04-02 18:51:14,259 - freemarker.cache -DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-04-02 18:51:14,259 - freemarker.cache -DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/simpl/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
