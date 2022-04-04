@@ -151,10 +151,8 @@
 						<expandDocStrings>false</expandDocStrings>
 						<expandAttachments>true</expandAttachments>
 						<customPageTitle>Salesforce Automation Report</customPageTitle>
-						<customParametersFile>path/to/your/customParameters.properties</customParametersFile>
 						<customParameters>
 							<Custom_Parameter>Case Management</Custom_Parameter>
-							<!--<Custom_URL>http://www.google.com</Custom_URL>-->
 							<_Text>Testing of Case Management Scenarios</_Text>
 						</customParameters>
 					</configuration>
